@@ -1,0 +1,878 @@
+[
+    {
+        "id": "collectible-1004",
+        "name": "突击博物馆地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_museum_png.png"
+    },
+    {
+        "id": "collectible-1005",
+        "name": "商业中心地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_downtown_png.png"
+    },
+    {
+        "id": "collectible-1006",
+        "name": "霹雳行动地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_thunder_png.png"
+    },
+    {
+        "id": "collectible-1007",
+        "name": "决战贫民窟地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_favela_png.png"
+    },
+    {
+        "id": "collectible-1008",
+        "name": "汽车旅馆地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_motel_png.png"
+    },
+    {
+        "id": "collectible-1009",
+        "name": "海滨危机地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_seaside_png.png"
+    },
+    {
+        "id": "collectible-1010",
+        "name": "火拼图书馆地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_library_png.png"
+    },
+    {
+        "id": "collectible-1016",
+        "name": "办公大楼地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_agency_png.png"
+    },
+    {
+        "id": "collectible-1017",
+        "name": "阿里镇地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ali_png.png"
+    },
+    {
+        "id": "collectible-1018",
+        "name": "死城之谜地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_cache_png.png"
+    },
+    {
+        "id": "collectible-1019",
+        "name": "火拼华埠地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_chinatown_png.png"
+    },
+    {
+        "id": "collectible-1020",
+        "name": "瓜廖尔堡地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_gwalior_png.png"
+    },
+    {
+        "id": "collectible-1021",
+        "name": "玛雅遗址地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ruins_png.png"
+    },
+    {
+        "id": "collectible-1022",
+        "name": "围攻之势地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_siege_png.png"
+    },
+    {
+        "id": "collectible-1031",
+        "name": "绝壁城堡地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_castle_png.png"
+    },
+    {
+        "id": "collectible-1032",
+        "name": "黑金钻井地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_blackgold_png.png"
+    },
+    {
+        "id": "collectible-1033",
+        "name": "丛林突袭地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_rush_png.png"
+    },
+    {
+        "id": "collectible-1034",
+        "name": "雾隐雷达站地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mist_png.png"
+    },
+    {
+        "id": "collectible-1035",
+        "name": "突入点地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_insertion_png.png"
+    },
+    {
+        "id": "collectible-1036",
+        "name": "荒废船坞地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_overgrown_png.png"
+    },
+    {
+        "id": "collectible-1037",
+        "name": "马奎斯城地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_marquis_png.png"
+    },
+    {
+        "id": "collectible-1038",
+        "name": "健身中心地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_workout_png.png"
+    },
+    {
+        "id": "collectible-1039",
+        "name": "后巷地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_backalley_png.png"
+    },
+    {
+        "id": "collectible-1040",
+        "name": "四季公司地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_season_png.png"
+    },
+    {
+        "id": "collectible-1041",
+        "name": "中东集市地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_bazaar_png.png"
+    },
+    {
+        "id": "collectible-1042",
+        "name": "正面突击地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_facade_png.png"
+    },
+    {
+        "id": "collectible-1043",
+        "name": "伐木工厂地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_log_png.png"
+    },
+    {
+        "id": "collectible-1044",
+        "name": "铁路站场地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_rails_png.png"
+    },
+    {
+        "id": "collectible-1045",
+        "name": "度假村地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_resort_png.png"
+    },
+    {
+        "id": "collectible-1046",
+        "name": "动物园地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_zoo_png.png"
+    },
+    {
+        "id": "collectible-1047",
+        "name": "圣托里尼地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_santorini_png.png"
+    },
+    {
+        "id": "collectible-1048",
+        "name": "海滨古镇地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_coast_png.png"
+    },
+    {
+        "id": "collectible-1049",
+        "name": "米卡拉巷地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mikla_png.png"
+    },
+    {
+        "id": "collectible-1050",
+        "name": "皇家古堡地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_royal_png.png"
+    },
+    {
+        "id": "collectible-1051",
+        "name": "帝国州公司地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_empire_png.png"
+    },
+    {
+        "id": "collectible-1052",
+        "name": "郁金香城地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_tulip_png.png"
+    },
+    {
+        "id": "collectible-1053",
+        "name": "凶厄游轮地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_cruise_png.png"
+    },
+    {
+        "id": "collectible-1054",
+        "name": "极寒之境地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_subzero_png.png"
+    },
+    {
+        "id": "collectible-1055",
+        "name": "热带村落地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_biome_png.png"
+    },
+    {
+        "id": "collectible-1056",
+        "name": "修道院地图硬币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_abbey_png.png"
+    },
+    {
+        "id": "collectible-1057",
+        "name": "红宝石酒镇地图硬币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ruby_png.png"
+    },
+    {
+        "id": "collectible-1058",
+        "name": "坦根特公司地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_breach_png.png"
+    },
+    {
+        "id": "collectible-1059",
+        "name": "工作室地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_studio_png.png"
+    },
+    {
+        "id": "collectible-1060",
+        "name": "丛林地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_jungle_png.png"
+    },
+    {
+        "id": "collectible-1061",
+        "name": "阿努比斯地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_anubis_png.png"
+    },
+    {
+        "id": "collectible-1062",
+        "name": "科洛林地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_chlorine_png.png"
+    },
+    {
+        "id": "collectible-1063",
+        "name": "红帆要塞地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mutiny_png.png"
+    },
+    {
+        "id": "collectible-1064",
+        "name": "失落沼泽地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_swamp_png.png"
+    },
+    {
+        "id": "collectible-1065",
+        "name": "寒伤之地地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_frostbite_png.png"
+    },
+    {
+        "id": "collectible-1066",
+        "name": "车展大厅地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_engage_png.png"
+    },
+    {
+        "id": "collectible-1067",
+        "name": "阿波罗地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_apollo_png.png"
+    },
+    {
+        "id": "collectible-1068",
+        "name": "守卫所地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_guard_png.png"
+    },
+    {
+        "id": "collectible-1069",
+        "name": "极乐净土地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_elysion_png.png"
+    },
+    {
+        "id": "collectible-1070",
+        "name": "铀矿基地地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_grind_png.png"
+    },
+    {
+        "id": "collectible-1071",
+        "name": "摩卡小镇地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_mocha_png.png"
+    },
+    {
+        "id": "collectible-1072",
+        "name": "亡灵乐土地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_calavera_png.png"
+    },
+    {
+        "id": "collectible-1073",
+        "name": "赛车维修站地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_pitstop_png.png"
+    },
+    {
+        "id": "collectible-1074",
+        "name": "冰火岛地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_basalt_png.png"
+    },
+    {
+        "id": "collectible-1075",
+        "name": "突入点 II 地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_insertion2_png.png"
+    },
+    {
+        "id": "collectible-1076",
+        "name": "霜夜城堡地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ravine_png.png"
+    },
+    {
+        "id": "collectible-1077",
+        "name": "湖心别墅地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_extraction_png.png"
+    },
+    {
+        "id": "collectible-1078",
+        "name": "无人之郡地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_county_png.png"
+    },
+    {
+        "id": "collectible-1079",
+        "name": "鸢尾小镇地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_iris_png.png"
+    },
+    {
+        "id": "collectible-1080",
+        "name": "攀岩运动馆地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_climb_png.png"
+    },
+    {
+        "id": "collectible-1081",
+        "name": "克里特岛地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_crete_png.png"
+    },
+    {
+        "id": "collectible-1082",
+        "name": "蜂巢研究所地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_hive_png.png"
+    },
+    {
+        "id": "collectible-1083",
+        "name": "葡萄庄园地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_vineyard_png.png"
+    },
+    {
+        "id": "collectible-1084",
+        "name": "余烬岛地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_ember_png.png"
+    },
+    {
+        "id": "collectible-1085",
+        "name": "托斯卡纳地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_tuscan_png.png"
+    },
+    {
+        "id": "collectible-1086",
+        "name": "悬河钻场地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_prime_png.png"
+    },
+    {
+        "id": "collectible-1087",
+        "name": "布拉盖修道院地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_blagai_png.png"
+    },
+    {
+        "id": "collectible-1088",
+        "name": "博涯堡垒地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_boyard_png.png"
+    },
+    {
+        "id": "collectible-1089",
+        "name": "圣杯村庄地图币",
+        "description": null,
+        "rarity": {
+            "id": "rarity_ancient",
+            "name": "非凡",
+            "color": "#eb4b4b"
+        },
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_chalice_png.png"
+    }
+]
