@@ -49564,7 +49564,7 @@
         "contains": [
             {
                 "id": "sticker-7859",
-                "name": "jL (Champion) | Copenhagen 2024",
+                "name": "jL (チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "ハイグレード",
@@ -49574,7 +49574,7 @@
             },
             {
                 "id": "sticker-7863",
-                "name": "Aleksib (Champion) | Copenhagen 2024",
+                "name": "Aleksib (チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "ハイグレード",
@@ -49584,7 +49584,7 @@
             },
             {
                 "id": "sticker-7867",
-                "name": "b1t (Champion) | Copenhagen 2024",
+                "name": "b1t (チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "ハイグレード",
@@ -49594,7 +49594,7 @@
             },
             {
                 "id": "sticker-7871",
-                "name": "iM (Champion) | Copenhagen 2024",
+                "name": "iM (チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "ハイグレード",
@@ -49604,7 +49604,7 @@
             },
             {
                 "id": "sticker-7875",
-                "name": "w0nderful (Champion) | Copenhagen 2024",
+                "name": "w0nderful (チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "ハイグレード",
@@ -49614,7 +49614,7 @@
             },
             {
                 "id": "sticker-7860",
-                "name": "jL (Glitter, Champion) | Copenhagen 2024",
+                "name": "jL (グリッター、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "リマーカブル",
@@ -49624,7 +49624,7 @@
             },
             {
                 "id": "sticker-7864",
-                "name": "Aleksib (Glitter, Champion) | Copenhagen 2024",
+                "name": "Aleksib (グリッター、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "リマーカブル",
@@ -49634,7 +49634,7 @@
             },
             {
                 "id": "sticker-7868",
-                "name": "b1t (Glitter, Champion) | Copenhagen 2024",
+                "name": "b1t (グリッター、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "リマーカブル",
@@ -49644,7 +49644,7 @@
             },
             {
                 "id": "sticker-7872",
-                "name": "iM (Glitter, Champion) | Copenhagen 2024",
+                "name": "iM (グリッター、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "リマーカブル",
@@ -49654,7 +49654,7 @@
             },
             {
                 "id": "sticker-7876",
-                "name": "w0nderful (Glitter, Champion) | Copenhagen 2024",
+                "name": "w0nderful (グリッター、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "リマーカブル",
@@ -49664,7 +49664,7 @@
             },
             {
                 "id": "sticker-7861",
-                "name": "jL (Holo, Champion) | Copenhagen 2024",
+                "name": "jL (ホログラム、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "エキゾチック",
@@ -49674,7 +49674,7 @@
             },
             {
                 "id": "sticker-7865",
-                "name": "Aleksib (Holo, Champion) | Copenhagen 2024",
+                "name": "Aleksib (ホログラム、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "エキゾチック",
@@ -49684,7 +49684,7 @@
             },
             {
                 "id": "sticker-7869",
-                "name": "b1t (Holo, Champion) | Copenhagen 2024",
+                "name": "b1t (ホログラム、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "エキゾチック",
@@ -49694,7 +49694,7 @@
             },
             {
                 "id": "sticker-7873",
-                "name": "iM (Holo, Champion) | Copenhagen 2024",
+                "name": "iM (ホログラム、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "エキゾチック",
@@ -49704,7 +49704,7 @@
             },
             {
                 "id": "sticker-7877",
-                "name": "w0nderful (Holo, Champion) | Copenhagen 2024",
+                "name": "w0nderful (ホログラム、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "エキゾチック",
@@ -49714,7 +49714,7 @@
             },
             {
                 "id": "sticker-7862",
-                "name": "jL (Gold, Champion) | Copenhagen 2024",
+                "name": "jL (ゴールド、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "レア",
@@ -49724,7 +49724,7 @@
             },
             {
                 "id": "sticker-7866",
-                "name": "Aleksib (Gold, Champion) | Copenhagen 2024",
+                "name": "Aleksib (ゴールド、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "レア",
@@ -49734,7 +49734,7 @@
             },
             {
                 "id": "sticker-7870",
-                "name": "b1t (Gold, Champion) | Copenhagen 2024",
+                "name": "b1t (ゴールド、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "レア",
@@ -49744,7 +49744,7 @@
             },
             {
                 "id": "sticker-7874",
-                "name": "iM (Gold, Champion) | Copenhagen 2024",
+                "name": "iM (ゴールド、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "レア",
@@ -49754,7 +49754,7 @@
             },
             {
                 "id": "sticker-7878",
-                "name": "w0nderful (Gold, Champion) | Copenhagen 2024",
+                "name": "w0nderful (ゴールド、チャンピオン) | Copenhagen 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "レア",
