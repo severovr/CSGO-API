@@ -133,7 +133,7 @@
     },
     {
         "id": "collectible-6001",
-        "name": "진품 더스트 II 핀",
+        "name": "진품 더스트 2 핀",
         "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_ancient",
@@ -205,7 +205,7 @@
     },
     {
         "id": "collectible-6007",
-        "name": "진품 민병대 핀",
+        "name": "진품 밀리샤 핀",
         "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_mythical",
@@ -217,7 +217,7 @@
     },
     {
         "id": "collectible-6008",
-        "name": "진품 핵 시설 핀",
+        "name": "진품 뉴크 핀",
         "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_rare",
@@ -229,7 +229,7 @@
     },
     {
         "id": "collectible-6009",
-        "name": "진품 기차 핀",
+        "name": "진품 열차 핀",
         "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_rare",
@@ -325,7 +325,7 @@
     },
     {
         "id": "collectible-6017",
-        "name": "진품 자갈돌 핀",
+        "name": "진품 코블 핀",
         "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_mythical",
@@ -337,7 +337,7 @@
     },
     {
         "id": "collectible-6018",
-        "name": "진품 고가도로 핀",
+        "name": "진품 오버패스 핀",
         "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_mythical",
@@ -361,7 +361,7 @@
     },
     {
         "id": "collectible-6020",
-        "name": "진품 무기 창고 핀",
+        "name": "진품 무기창고 핀",
         "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_legendary",
@@ -541,7 +541,7 @@
     },
     {
         "id": "collectible-6101",
-        "name": "더스트 II 핀",
+        "name": "더스트 2 핀",
         "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_ancient",
@@ -613,7 +613,7 @@
     },
     {
         "id": "collectible-6107",
-        "name": "민병대 핀",
+        "name": "밀리샤 핀",
         "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_mythical",
@@ -625,7 +625,7 @@
     },
     {
         "id": "collectible-6108",
-        "name": "핵 시설 핀",
+        "name": "뉴크 핀",
         "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_rare",
@@ -637,7 +637,7 @@
     },
     {
         "id": "collectible-6109",
-        "name": "기차 핀",
+        "name": "열차 핀",
         "description": "프로필에 전시할 수 있는 제1시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_rare",
@@ -733,7 +733,7 @@
     },
     {
         "id": "collectible-6117",
-        "name": "자갈돌 핀",
+        "name": "코블 핀",
         "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_mythical",
@@ -745,7 +745,7 @@
     },
     {
         "id": "collectible-6118",
-        "name": "고가도로 핀",
+        "name": "오버패스 핀",
         "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_mythical",
@@ -769,7 +769,7 @@
     },
     {
         "id": "collectible-6120",
-        "name": "무기 창고 핀",
+        "name": "무기창고 핀",
         "description": "프로필에 전시할 수 있는 제2시리즈 수집 가능한 핀입니다.",
         "rarity": {
             "id": "rarity_legendary",
