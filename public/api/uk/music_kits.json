@@ -1,5 +1,17 @@
 [
     {
+        "id": "music_kit-2",
+        "name": null,
+        "description": null,
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "дуже рідкісний предмет",
+            "color": "#4b69ff"
+        },
+        "exclusive": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/valve_02_png.png"
+    },
+    {
         "id": "music_kit-3",
         "name": "Музичний альбом | Daniel Sadowski — Crimson Assault",
         "description": "У цьому пульсуючому жвавому альбомі композитор відеоігор Деніел Садовський поєднує напружений бойовик із ДИКО РІЗКИМИ бітами.",
@@ -963,14 +975,14 @@
     },
     {
         "id": "music_kit-42",
-        "name": "Half-Life: Alyx — Anti-Citizen",
+        "name": null,
         "description": "Цей музичний альбом на честь Half-Life: Alyx, віртуально-реального повернення Valve до серії Half-Life. Ви — єдиний шанс людства на виживання, і ваші захопливі взаємодії з оточенням продовжаться в Counter-Strike.",
         "rarity": {
             "id": "rarity_rare",
             "name": "дуже рідкісний предмет",
             "color": "#4b69ff"
         },
-        "exclusive": true,
+        "exclusive": false,
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/hlalyx_01_png.png"
     },
     {
@@ -1634,6 +1646,18 @@
         "market_hash_name": "StatTrak™ Music Kit | Denzel Curry, ULTIMATE",
         "exclusive": false,
         "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/denzelcurry_01_png.png"
+    },
+    {
+        "id": "music_kit-70",
+        "name": null,
+        "description": "Стандартний музичний альбом CS:GO, що вийшов разом із CS:GO у 2012 році.",
+        "rarity": {
+            "id": "rarity_rare",
+            "name": "дуже рідкісний предмет",
+            "color": "#4b69ff"
+        },
+        "exclusive": false,
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/valve_01_png.png"
     },
     {
         "id": "music_kit-71",
