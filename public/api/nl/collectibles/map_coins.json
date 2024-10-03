@@ -745,7 +745,7 @@
     },
     {
         "id": "collectible-1079",
-        "name": "Iris Map Coin",
+        "name": "Iris-mapmunt",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -757,7 +757,7 @@
     },
     {
         "id": "collectible-1080",
-        "name": "Climb Map Coin",
+        "name": "Climb-mapmunt",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -769,7 +769,7 @@
     },
     {
         "id": "collectible-1081",
-        "name": "Crete Map Coin",
+        "name": "Crete-mapmunt",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -781,7 +781,7 @@
     },
     {
         "id": "collectible-1082",
-        "name": "Hive Map Coin",
+        "name": "Hive-mapmunt",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -793,7 +793,7 @@
     },
     {
         "id": "collectible-1083",
-        "name": "Vineyard Map Coin",
+        "name": "Vineyard-mapmunt",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -805,7 +805,7 @@
     },
     {
         "id": "collectible-1084",
-        "name": "Ember Map Coin",
+        "name": "Ember-mapmunt",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -817,7 +817,7 @@
     },
     {
         "id": "collectible-1085",
-        "name": "Tuscan Map Coin",
+        "name": "Tuscan-mapmunt",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -829,7 +829,7 @@
     },
     {
         "id": "collectible-1086",
-        "name": "Cascade Map Coin",
+        "name": "Cascade-mapmunt",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -841,7 +841,7 @@
     },
     {
         "id": "collectible-1087",
-        "name": "Blagai Map Coin",
+        "name": "Blagai-mapmunt",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -853,7 +853,7 @@
     },
     {
         "id": "collectible-1088",
-        "name": "Boyard Map Coin",
+        "name": "Boyard-mapmunt",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
@@ -865,7 +865,7 @@
     },
     {
         "id": "collectible-1089",
-        "name": "Chalice Map Coin",
+        "name": "Chalice-mapmunt",
         "description": null,
         "rarity": {
             "id": "rarity_ancient",
