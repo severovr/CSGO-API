@@ -1650,7 +1650,7 @@
     {
         "id": "music_kit-70",
         "name": null,
-        "description": "The default CS:GO music kit, introduced with the launch of CS:GO in 2012.",
+        "description": "De standaard CS:GO-muziekset, geïntroduceerd bij de lancering van CS:GO in 2012.",
         "rarity": {
             "id": "rarity_rare",
             "name": "Hoge rang",
