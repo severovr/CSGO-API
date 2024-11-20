@@ -4525,8 +4525,8 @@
     },
     {
         "id": "collectible-4982",
-        "name": "Whistle Map Coin",
-        "description": "Commemorates authorship of the CS2 Map 'Whistle'",
+        "name": "Huy chương bản đồ - Whistle",
+        "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Whistle\\\"",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Phi thường",
@@ -4537,8 +4537,8 @@
     },
     {
         "id": "collectible-4983",
-        "name": "Palais Map Coin",
-        "description": "Commemorates authorship of the CS2 Map 'Palais'",
+        "name": "Huy chương bản đồ - Palais",
+        "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Palais\\\"",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Phi thường",
@@ -4549,8 +4549,8 @@
     },
     {
         "id": "collectible-4984",
-        "name": "Edin Map Coin",
-        "description": "Commemorates authorship of the CS2 Map 'Edin'",
+        "name": "Huy chương bản đồ - Edin",
+        "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Edin\\\"",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Phi thường",
@@ -4561,8 +4561,8 @@
     },
     {
         "id": "collectible-4985",
-        "name": "Basalt Map Coin",
-        "description": "Commemorates authorship of the CS2 Map 'Basalt'",
+        "name": "Huy chương bản đồ - Basalt",
+        "description": "Kỷ niệm tác giả bản đồ CS2 \\\"Basalt\\\"",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Phi thường",
