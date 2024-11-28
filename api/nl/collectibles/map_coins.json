@@ -937,8 +937,8 @@
     },
     {
         "id": "collectible-4982",
-        "name": "Whistle Map Coin",
-        "description": "Commemorates authorship of the CS2 Map 'Whistle'",
+        "name": "Whistle-mapmunt",
+        "description": "Uitgereikt aan de makers van de CS2-map 'Whistle'",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Buitengewoon",
@@ -949,8 +949,8 @@
     },
     {
         "id": "collectible-4983",
-        "name": "Palais Map Coin",
-        "description": "Commemorates authorship of the CS2 Map 'Palais'",
+        "name": "Palais-mapmunt",
+        "description": "Uitgereikt aan de makers van de CS2-map 'Palais'",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Buitengewoon",
@@ -961,8 +961,8 @@
     },
     {
         "id": "collectible-4984",
-        "name": "Edin Map Coin",
-        "description": "Commemorates authorship of the CS2 Map 'Edin'",
+        "name": "Edin-mapmunt",
+        "description": "Uitgereikt aan de makers van de CS2-map 'Edin'",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Buitengewoon",
@@ -973,8 +973,8 @@
     },
     {
         "id": "collectible-4985",
-        "name": "Basalt Map Coin",
-        "description": "Commemorates authorship of the CS2 Map 'Basalt'",
+        "name": "Basalt-mapmunt",
+        "description": "Uitgereikt aan de makers van de CS2-map 'Basalt'",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Buitengewoon",
