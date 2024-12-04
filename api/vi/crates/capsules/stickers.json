@@ -19031,14 +19031,14 @@
     },
     {
         "id": "crate-4964",
-        "name": "Shanghai 2024 Legends Sticker Capsule",
-        "description": "This capsule contains a single Shanghai 2024 Legends participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "name": "Gói hình dán huyền thoại | Thượng Hải 2024",
+        "description": "Gói hình dán này chứa một hình dán giấy, kim tuyến, ảnh toàn ký hoặc vàng của đội tham dự nhóm huyền thoại Thượng Hải 2024.\\n\\n50% doanh số từ gói này sẽ được chia cho tổ chức tương ứng.\\n\\nHình dán đó có thể được dùng lên bất cứ vũ khí nào bạn sở hữu, và có thể cào để trông mòn hơn. Bạn có thể cào một hình dán nhiều lần, khiến nó càng mòn thêm, cho tới khi tróc khỏi vũ khí.",
         "type": "Sticker Capsule",
         "first_sale_date": null,
         "contains": [
             {
                 "id": "sticker-7928",
-                "name": "G2 Esports | Shanghai 2024",
+                "name": "G2 Esports | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19048,7 +19048,7 @@
             },
             {
                 "id": "sticker-7932",
-                "name": "Natus Vincere | Shanghai 2024",
+                "name": "Natus Vincere | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19058,7 +19058,7 @@
             },
             {
                 "id": "sticker-7936",
-                "name": "Vitality | Shanghai 2024",
+                "name": "Vitality | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19068,7 +19068,7 @@
             },
             {
                 "id": "sticker-7940",
-                "name": "Team Spirit | Shanghai 2024",
+                "name": "Team Spirit | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19078,7 +19078,7 @@
             },
             {
                 "id": "sticker-7944",
-                "name": "MOUZ | Shanghai 2024",
+                "name": "MOUZ | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19088,7 +19088,7 @@
             },
             {
                 "id": "sticker-7948",
-                "name": "FaZe Clan | Shanghai 2024",
+                "name": "FaZe Clan | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19098,7 +19098,7 @@
             },
             {
                 "id": "sticker-7952",
-                "name": "HEROIC | Shanghai 2024",
+                "name": "HEROIC | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19108,7 +19108,7 @@
             },
             {
                 "id": "sticker-7956",
-                "name": "3DMAX | Shanghai 2024",
+                "name": "3DMAX | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19118,7 +19118,7 @@
             },
             {
                 "id": "sticker-8024",
-                "name": "Perfect World | Shanghai 2024",
+                "name": "Perfect World | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19128,7 +19128,7 @@
             },
             {
                 "id": "sticker-7929",
-                "name": "G2 Esports (Glitter) | Shanghai 2024",
+                "name": "G2 Esports (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19138,7 +19138,7 @@
             },
             {
                 "id": "sticker-7933",
-                "name": "Natus Vincere (Glitter) | Shanghai 2024",
+                "name": "Natus Vincere (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19148,7 +19148,7 @@
             },
             {
                 "id": "sticker-7937",
-                "name": "Vitality (Glitter) | Shanghai 2024",
+                "name": "Vitality (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19158,7 +19158,7 @@
             },
             {
                 "id": "sticker-7941",
-                "name": "Team Spirit (Glitter) | Shanghai 2024",
+                "name": "Team Spirit (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19168,7 +19168,7 @@
             },
             {
                 "id": "sticker-7945",
-                "name": "MOUZ (Glitter) | Shanghai 2024",
+                "name": "MOUZ (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19178,7 +19178,7 @@
             },
             {
                 "id": "sticker-7949",
-                "name": "FaZe Clan (Glitter) | Shanghai 2024",
+                "name": "FaZe Clan (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19188,7 +19188,7 @@
             },
             {
                 "id": "sticker-7953",
-                "name": "HEROIC (Glitter) | Shanghai 2024",
+                "name": "HEROIC (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19198,7 +19198,7 @@
             },
             {
                 "id": "sticker-7957",
-                "name": "3DMAX (Glitter) | Shanghai 2024",
+                "name": "3DMAX (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19208,7 +19208,7 @@
             },
             {
                 "id": "sticker-8025",
-                "name": "Perfect World (Glitter) | Shanghai 2024",
+                "name": "Perfect World (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19218,7 +19218,7 @@
             },
             {
                 "id": "sticker-7930",
-                "name": "G2 Esports (Holo) | Shanghai 2024",
+                "name": "G2 Esports (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19228,7 +19228,7 @@
             },
             {
                 "id": "sticker-7934",
-                "name": "Natus Vincere (Holo) | Shanghai 2024",
+                "name": "Natus Vincere (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19238,7 +19238,7 @@
             },
             {
                 "id": "sticker-7938",
-                "name": "Vitality (Holo) | Shanghai 2024",
+                "name": "Vitality (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19248,7 +19248,7 @@
             },
             {
                 "id": "sticker-7942",
-                "name": "Team Spirit (Holo) | Shanghai 2024",
+                "name": "Team Spirit (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19258,7 +19258,7 @@
             },
             {
                 "id": "sticker-7946",
-                "name": "MOUZ (Holo) | Shanghai 2024",
+                "name": "MOUZ (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19268,7 +19268,7 @@
             },
             {
                 "id": "sticker-7950",
-                "name": "FaZe Clan (Holo) | Shanghai 2024",
+                "name": "FaZe Clan (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19278,7 +19278,7 @@
             },
             {
                 "id": "sticker-7954",
-                "name": "HEROIC (Holo) | Shanghai 2024",
+                "name": "HEROIC (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19288,7 +19288,7 @@
             },
             {
                 "id": "sticker-7958",
-                "name": "3DMAX (Holo) | Shanghai 2024",
+                "name": "3DMAX (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19298,7 +19298,7 @@
             },
             {
                 "id": "sticker-8026",
-                "name": "Perfect World (Holo) | Shanghai 2024",
+                "name": "Perfect World (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19308,7 +19308,7 @@
             },
             {
                 "id": "sticker-7931",
-                "name": "G2 Esports (Gold) | Shanghai 2024",
+                "name": "G2 Esports (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19318,7 +19318,7 @@
             },
             {
                 "id": "sticker-7935",
-                "name": "Natus Vincere (Gold) | Shanghai 2024",
+                "name": "Natus Vincere (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19328,7 +19328,7 @@
             },
             {
                 "id": "sticker-7939",
-                "name": "Vitality (Gold) | Shanghai 2024",
+                "name": "Vitality (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19338,7 +19338,7 @@
             },
             {
                 "id": "sticker-7943",
-                "name": "Team Spirit (Gold) | Shanghai 2024",
+                "name": "Team Spirit (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19348,7 +19348,7 @@
             },
             {
                 "id": "sticker-7947",
-                "name": "MOUZ (Gold) | Shanghai 2024",
+                "name": "MOUZ (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19358,7 +19358,7 @@
             },
             {
                 "id": "sticker-7951",
-                "name": "FaZe Clan (Gold) | Shanghai 2024",
+                "name": "FaZe Clan (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19368,7 +19368,7 @@
             },
             {
                 "id": "sticker-7955",
-                "name": "HEROIC (Gold) | Shanghai 2024",
+                "name": "HEROIC (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19378,7 +19378,7 @@
             },
             {
                 "id": "sticker-7959",
-                "name": "3DMAX (Gold) | Shanghai 2024",
+                "name": "3DMAX (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19388,7 +19388,7 @@
             },
             {
                 "id": "sticker-8027",
-                "name": "Perfect World (Gold) | Shanghai 2024",
+                "name": "Perfect World (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19403,14 +19403,14 @@
     },
     {
         "id": "crate-4965",
-        "name": "Shanghai 2024 Challengers Sticker Capsule",
-        "description": "This capsule contains a single Shanghai 2024 Challengers participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "name": "Gói hình dán thách đấu | Thượng Hải 2024",
+        "description": "Gói hình dán này chứa một hình dán giấy, kim tuyến, ảnh toàn ký hoặc vàng của đội tham dự nhóm thách đấu Thượng Hải 2024.\\n\\n50% doanh số từ gói này sẽ được chia cho tổ chức tương ứng.\\n\\nHình dán đó có thể được dùng lên bất cứ vũ khí nào bạn sở hữu, và có thể cào để trông mòn hơn. Bạn có thể cào một hình dán nhiều lần, khiến nó càng mòn thêm, cho tới khi tróc khỏi vũ khí.",
         "type": "Sticker Capsule",
         "first_sale_date": null,
         "contains": [
             {
                 "id": "sticker-7960",
-                "name": "FURIA | Shanghai 2024",
+                "name": "FURIA | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19420,7 +19420,7 @@
             },
             {
                 "id": "sticker-7964",
-                "name": "Virtus.pro | Shanghai 2024",
+                "name": "Virtus.pro | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19430,7 +19430,7 @@
             },
             {
                 "id": "sticker-7968",
-                "name": "Team Liquid | Shanghai 2024",
+                "name": "Team Liquid | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19440,7 +19440,7 @@
             },
             {
                 "id": "sticker-7972",
-                "name": "Complexity Gaming | Shanghai 2024",
+                "name": "Complexity Gaming | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19450,7 +19450,7 @@
             },
             {
                 "id": "sticker-7976",
-                "name": "BIG | Shanghai 2024",
+                "name": "BIG | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19460,7 +19460,7 @@
             },
             {
                 "id": "sticker-7980",
-                "name": "Fnatic | Shanghai 2024",
+                "name": "Fnatic | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19470,7 +19470,7 @@
             },
             {
                 "id": "sticker-7984",
-                "name": "The MongolZ | Shanghai 2024",
+                "name": "The MongolZ | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19480,7 +19480,7 @@
             },
             {
                 "id": "sticker-7988",
-                "name": "paiN Gaming | Shanghai 2024",
+                "name": "paiN Gaming | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19490,7 +19490,7 @@
             },
             {
                 "id": "sticker-8024",
-                "name": "Perfect World | Shanghai 2024",
+                "name": "Perfect World | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19500,7 +19500,7 @@
             },
             {
                 "id": "sticker-7961",
-                "name": "FURIA (Glitter) | Shanghai 2024",
+                "name": "FURIA (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19510,7 +19510,7 @@
             },
             {
                 "id": "sticker-7965",
-                "name": "Virtus.pro (Glitter) | Shanghai 2024",
+                "name": "Virtus.pro (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19520,7 +19520,7 @@
             },
             {
                 "id": "sticker-7969",
-                "name": "Team Liquid (Glitter) | Shanghai 2024",
+                "name": "Team Liquid (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19530,7 +19530,7 @@
             },
             {
                 "id": "sticker-7973",
-                "name": "Complexity Gaming (Glitter) | Shanghai 2024",
+                "name": "Complexity Gaming (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19540,7 +19540,7 @@
             },
             {
                 "id": "sticker-7977",
-                "name": "BIG (Glitter) | Shanghai 2024",
+                "name": "BIG (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19550,7 +19550,7 @@
             },
             {
                 "id": "sticker-7981",
-                "name": "Fnatic (Glitter) | Shanghai 2024",
+                "name": "Fnatic (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19560,7 +19560,7 @@
             },
             {
                 "id": "sticker-7985",
-                "name": "The MongolZ (Glitter) | Shanghai 2024",
+                "name": "The MongolZ (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19570,7 +19570,7 @@
             },
             {
                 "id": "sticker-7989",
-                "name": "paiN Gaming (Glitter) | Shanghai 2024",
+                "name": "paiN Gaming (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19580,7 +19580,7 @@
             },
             {
                 "id": "sticker-8025",
-                "name": "Perfect World (Glitter) | Shanghai 2024",
+                "name": "Perfect World (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19590,7 +19590,7 @@
             },
             {
                 "id": "sticker-7962",
-                "name": "FURIA (Holo) | Shanghai 2024",
+                "name": "FURIA (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19600,7 +19600,7 @@
             },
             {
                 "id": "sticker-7966",
-                "name": "Virtus.pro (Holo) | Shanghai 2024",
+                "name": "Virtus.pro (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19610,7 +19610,7 @@
             },
             {
                 "id": "sticker-7970",
-                "name": "Team Liquid (Holo) | Shanghai 2024",
+                "name": "Team Liquid (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19620,7 +19620,7 @@
             },
             {
                 "id": "sticker-7974",
-                "name": "Complexity Gaming (Holo) | Shanghai 2024",
+                "name": "Complexity Gaming (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19630,7 +19630,7 @@
             },
             {
                 "id": "sticker-7978",
-                "name": "BIG (Holo) | Shanghai 2024",
+                "name": "BIG (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19640,7 +19640,7 @@
             },
             {
                 "id": "sticker-7982",
-                "name": "Fnatic (Holo) | Shanghai 2024",
+                "name": "Fnatic (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19650,7 +19650,7 @@
             },
             {
                 "id": "sticker-7986",
-                "name": "The MongolZ (Holo) | Shanghai 2024",
+                "name": "The MongolZ (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19660,7 +19660,7 @@
             },
             {
                 "id": "sticker-7990",
-                "name": "paiN Gaming (Holo) | Shanghai 2024",
+                "name": "paiN Gaming (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19670,7 +19670,7 @@
             },
             {
                 "id": "sticker-8026",
-                "name": "Perfect World (Holo) | Shanghai 2024",
+                "name": "Perfect World (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19680,7 +19680,7 @@
             },
             {
                 "id": "sticker-7963",
-                "name": "FURIA (Gold) | Shanghai 2024",
+                "name": "FURIA (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19690,7 +19690,7 @@
             },
             {
                 "id": "sticker-7967",
-                "name": "Virtus.pro (Gold) | Shanghai 2024",
+                "name": "Virtus.pro (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19700,7 +19700,7 @@
             },
             {
                 "id": "sticker-7971",
-                "name": "Team Liquid (Gold) | Shanghai 2024",
+                "name": "Team Liquid (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19710,7 +19710,7 @@
             },
             {
                 "id": "sticker-7975",
-                "name": "Complexity Gaming (Gold) | Shanghai 2024",
+                "name": "Complexity Gaming (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19720,7 +19720,7 @@
             },
             {
                 "id": "sticker-7979",
-                "name": "BIG (Gold) | Shanghai 2024",
+                "name": "BIG (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19730,7 +19730,7 @@
             },
             {
                 "id": "sticker-7983",
-                "name": "Fnatic (Gold) | Shanghai 2024",
+                "name": "Fnatic (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19740,7 +19740,7 @@
             },
             {
                 "id": "sticker-7987",
-                "name": "The MongolZ (Gold) | Shanghai 2024",
+                "name": "The MongolZ (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19750,7 +19750,7 @@
             },
             {
                 "id": "sticker-7991",
-                "name": "paiN Gaming (Gold) | Shanghai 2024",
+                "name": "paiN Gaming (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19760,7 +19760,7 @@
             },
             {
                 "id": "sticker-8027",
-                "name": "Perfect World (Gold) | Shanghai 2024",
+                "name": "Perfect World (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -19775,14 +19775,14 @@
     },
     {
         "id": "crate-4966",
-        "name": "Shanghai 2024 Contenders Sticker Capsule",
-        "description": "This capsule contains a single Shanghai 2024 Contenders participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "name": "Gói hình dán đương đầu | Thượng Hải 2024",
+        "description": "Gói hình dán này chứa một hình dán giấy, kim tuyến, ảnh toàn ký hoặc vàng của đội tham dự nhóm đương đầu Thượng Hải 2024.\\n\\n50% doanh số từ gói này sẽ được chia cho tổ chức tương ứng.\\n\\nHình dán đó có thể được dùng lên bất cứ vũ khí nào bạn sở hữu, và có thể cào để trông mòn hơn. Bạn có thể cào một hình dán nhiều lần, khiến nó càng mòn thêm, cho tới khi tróc khỏi vũ khí.",
         "type": "Sticker Capsule",
         "first_sale_date": null,
         "contains": [
             {
                 "id": "sticker-7992",
-                "name": "GamerLegion | Shanghai 2024",
+                "name": "GamerLegion | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19792,7 +19792,7 @@
             },
             {
                 "id": "sticker-7996",
-                "name": "MIBR | Shanghai 2024",
+                "name": "MIBR | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19802,7 +19802,7 @@
             },
             {
                 "id": "sticker-8000",
-                "name": "Cloud9 | Shanghai 2024",
+                "name": "Cloud9 | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19812,7 +19812,7 @@
             },
             {
                 "id": "sticker-8004",
-                "name": "FlyQuest | Shanghai 2024",
+                "name": "FlyQuest | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19822,7 +19822,7 @@
             },
             {
                 "id": "sticker-8008",
-                "name": "Passion UA | Shanghai 2024",
+                "name": "Passion UA | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19832,7 +19832,7 @@
             },
             {
                 "id": "sticker-8012",
-                "name": "Wildcard | Shanghai 2024",
+                "name": "Wildcard | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19842,7 +19842,7 @@
             },
             {
                 "id": "sticker-8016",
-                "name": "Rare Atom | Shanghai 2024",
+                "name": "Rare Atom | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19852,7 +19852,7 @@
             },
             {
                 "id": "sticker-8020",
-                "name": "Imperial Esports | Shanghai 2024",
+                "name": "Imperial Esports | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19862,7 +19862,7 @@
             },
             {
                 "id": "sticker-8024",
-                "name": "Perfect World | Shanghai 2024",
+                "name": "Perfect World | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Hạng cao cấp",
@@ -19872,7 +19872,7 @@
             },
             {
                 "id": "sticker-7993",
-                "name": "GamerLegion (Glitter) | Shanghai 2024",
+                "name": "GamerLegion (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19882,7 +19882,7 @@
             },
             {
                 "id": "sticker-7997",
-                "name": "MIBR (Glitter) | Shanghai 2024",
+                "name": "MIBR (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19892,7 +19892,7 @@
             },
             {
                 "id": "sticker-8001",
-                "name": "Cloud9 (Glitter) | Shanghai 2024",
+                "name": "Cloud9 (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19902,7 +19902,7 @@
             },
             {
                 "id": "sticker-8005",
-                "name": "FlyQuest (Glitter) | Shanghai 2024",
+                "name": "FlyQuest (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19912,7 +19912,7 @@
             },
             {
                 "id": "sticker-8009",
-                "name": "Passion UA (Glitter) | Shanghai 2024",
+                "name": "Passion UA (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19922,7 +19922,7 @@
             },
             {
                 "id": "sticker-8013",
-                "name": "Wildcard (Glitter) | Shanghai 2024",
+                "name": "Wildcard (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19932,7 +19932,7 @@
             },
             {
                 "id": "sticker-8017",
-                "name": "Rare Atom (Glitter) | Shanghai 2024",
+                "name": "Rare Atom (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19942,7 +19942,7 @@
             },
             {
                 "id": "sticker-8021",
-                "name": "Imperial Esports (Glitter) | Shanghai 2024",
+                "name": "Imperial Esports (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19952,7 +19952,7 @@
             },
             {
                 "id": "sticker-8025",
-                "name": "Perfect World (Glitter) | Shanghai 2024",
+                "name": "Perfect World (Kim tuyến) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Ấn tượng",
@@ -19962,7 +19962,7 @@
             },
             {
                 "id": "sticker-7994",
-                "name": "GamerLegion (Holo) | Shanghai 2024",
+                "name": "GamerLegion (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19972,7 +19972,7 @@
             },
             {
                 "id": "sticker-7998",
-                "name": "MIBR (Holo) | Shanghai 2024",
+                "name": "MIBR (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19982,7 +19982,7 @@
             },
             {
                 "id": "sticker-8002",
-                "name": "Cloud9 (Holo) | Shanghai 2024",
+                "name": "Cloud9 (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -19992,7 +19992,7 @@
             },
             {
                 "id": "sticker-8006",
-                "name": "FlyQuest (Holo) | Shanghai 2024",
+                "name": "FlyQuest (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -20002,7 +20002,7 @@
             },
             {
                 "id": "sticker-8010",
-                "name": "Passion UA (Holo) | Shanghai 2024",
+                "name": "Passion UA (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -20012,7 +20012,7 @@
             },
             {
                 "id": "sticker-8014",
-                "name": "Wildcard (Holo) | Shanghai 2024",
+                "name": "Wildcard (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -20022,7 +20022,7 @@
             },
             {
                 "id": "sticker-8018",
-                "name": "Rare Atom (Holo) | Shanghai 2024",
+                "name": "Rare Atom (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -20032,7 +20032,7 @@
             },
             {
                 "id": "sticker-8022",
-                "name": "Imperial Esports (Holo) | Shanghai 2024",
+                "name": "Imperial Esports (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -20042,7 +20042,7 @@
             },
             {
                 "id": "sticker-8026",
-                "name": "Perfect World (Holo) | Shanghai 2024",
+                "name": "Perfect World (Ảnh toàn ký) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Ngoại nhập",
@@ -20052,7 +20052,7 @@
             },
             {
                 "id": "sticker-7995",
-                "name": "GamerLegion (Gold) | Shanghai 2024",
+                "name": "GamerLegion (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -20062,7 +20062,7 @@
             },
             {
                 "id": "sticker-7999",
-                "name": "MIBR (Gold) | Shanghai 2024",
+                "name": "MIBR (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -20072,7 +20072,7 @@
             },
             {
                 "id": "sticker-8003",
-                "name": "Cloud9 (Gold) | Shanghai 2024",
+                "name": "Cloud9 (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -20082,7 +20082,7 @@
             },
             {
                 "id": "sticker-8007",
-                "name": "FlyQuest (Gold) | Shanghai 2024",
+                "name": "FlyQuest (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -20092,7 +20092,7 @@
             },
             {
                 "id": "sticker-8011",
-                "name": "Passion UA (Gold) | Shanghai 2024",
+                "name": "Passion UA (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -20102,7 +20102,7 @@
             },
             {
                 "id": "sticker-8015",
-                "name": "Wildcard (Gold) | Shanghai 2024",
+                "name": "Wildcard (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -20112,7 +20112,7 @@
             },
             {
                 "id": "sticker-8019",
-                "name": "Rare Atom (Gold) | Shanghai 2024",
+                "name": "Rare Atom (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -20122,7 +20122,7 @@
             },
             {
                 "id": "sticker-8023",
-                "name": "Imperial Esports (Gold) | Shanghai 2024",
+                "name": "Imperial Esports (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",
@@ -20132,7 +20132,7 @@
             },
             {
                 "id": "sticker-8027",
-                "name": "Perfect World (Gold) | Shanghai 2024",
+                "name": "Perfect World (Vàng) | Thượng Hải 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Phi thường",

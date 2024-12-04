@@ -49769,8 +49769,8 @@
     },
     {
         "id": "crate-4978",
-        "name": "Shanghai 2024 Legends Autograph Capsule",
-        "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Legends players at Shanghai 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "name": "Shanghai 2024 Legendák Aláíráskapszula",
+        "description": "Ez a kapszula egyetlen, a Shanghai 2024 egyik Legendája által aláírt papír, csillámos, hologramos vagy arany matricát tartalmaz.\\n\\nE kapszula minden eladásának bevételéből 50% az adott játékost és szervezetet támogatja.\\n\\nA matrica bármely általad birtokolt fegyverre felragasztható, és meg lehet kaparni, hogy viseltesebbnek tűnjön. Ugyanazt a matricát többször is megkaparhatod, minden alkalommal kicsivel viseltesebbé téve, amíg teljesen el nem távolítódik a fegyverről.",
         "type": "Autograph Capsule",
         "first_sale_date": null,
         "contains": [
@@ -50176,7 +50176,7 @@
             },
             {
                 "id": "sticker-8054",
-                "name": "Snax (Glitter) | Shanghai 2024",
+                "name": "Snax (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50186,7 +50186,7 @@
             },
             {
                 "id": "sticker-8058",
-                "name": "huNter- (Glitter) | Shanghai 2024",
+                "name": "huNter- (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50196,7 +50196,7 @@
             },
             {
                 "id": "sticker-8062",
-                "name": "malbsMd (Glitter) | Shanghai 2024",
+                "name": "malbsMd (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50206,7 +50206,7 @@
             },
             {
                 "id": "sticker-8066",
-                "name": "m0NESY (Glitter) | Shanghai 2024",
+                "name": "m0NESY (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50216,7 +50216,7 @@
             },
             {
                 "id": "sticker-8070",
-                "name": "NiKo (Glitter) | Shanghai 2024",
+                "name": "NiKo (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50226,7 +50226,7 @@
             },
             {
                 "id": "sticker-8074",
-                "name": "w0nderful (Glitter) | Shanghai 2024",
+                "name": "w0nderful (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50236,7 +50236,7 @@
             },
             {
                 "id": "sticker-8078",
-                "name": "Aleksib (Glitter) | Shanghai 2024",
+                "name": "Aleksib (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50246,7 +50246,7 @@
             },
             {
                 "id": "sticker-8082",
-                "name": "jL (Glitter) | Shanghai 2024",
+                "name": "jL (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50256,7 +50256,7 @@
             },
             {
                 "id": "sticker-8086",
-                "name": "b1t (Glitter) | Shanghai 2024",
+                "name": "b1t (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50266,7 +50266,7 @@
             },
             {
                 "id": "sticker-8090",
-                "name": "iM (Glitter) | Shanghai 2024",
+                "name": "iM (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50276,7 +50276,7 @@
             },
             {
                 "id": "sticker-8094",
-                "name": "ZywOo (Glitter) | Shanghai 2024",
+                "name": "ZywOo (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50286,7 +50286,7 @@
             },
             {
                 "id": "sticker-8098",
-                "name": "apEX (Glitter) | Shanghai 2024",
+                "name": "apEX (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50296,7 +50296,7 @@
             },
             {
                 "id": "sticker-8102",
-                "name": "mezii (Glitter) | Shanghai 2024",
+                "name": "mezii (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50306,7 +50306,7 @@
             },
             {
                 "id": "sticker-8106",
-                "name": "FlameZ (Glitter) | Shanghai 2024",
+                "name": "FlameZ (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50316,7 +50316,7 @@
             },
             {
                 "id": "sticker-8110",
-                "name": "Spinx (Glitter) | Shanghai 2024",
+                "name": "Spinx (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50326,7 +50326,7 @@
             },
             {
                 "id": "sticker-8114",
-                "name": "chopper (Glitter) | Shanghai 2024",
+                "name": "chopper (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50336,7 +50336,7 @@
             },
             {
                 "id": "sticker-8118",
-                "name": "magixx (Glitter) | Shanghai 2024",
+                "name": "magixx (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50346,7 +50346,7 @@
             },
             {
                 "id": "sticker-8122",
-                "name": "donk (Glitter) | Shanghai 2024",
+                "name": "donk (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50356,7 +50356,7 @@
             },
             {
                 "id": "sticker-8126",
-                "name": "sh1ro (Glitter) | Shanghai 2024",
+                "name": "sh1ro (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50366,7 +50366,7 @@
             },
             {
                 "id": "sticker-8130",
-                "name": "zont1x (Glitter) | Shanghai 2024",
+                "name": "zont1x (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50376,7 +50376,7 @@
             },
             {
                 "id": "sticker-8134",
-                "name": "torzsi (Glitter) | Shanghai 2024",
+                "name": "torzsi (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50386,7 +50386,7 @@
             },
             {
                 "id": "sticker-8138",
-                "name": "xertioN (Glitter) | Shanghai 2024",
+                "name": "xertioN (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50396,7 +50396,7 @@
             },
             {
                 "id": "sticker-8142",
-                "name": "Brollan (Glitter) | Shanghai 2024",
+                "name": "Brollan (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50406,7 +50406,7 @@
             },
             {
                 "id": "sticker-8146",
-                "name": "Jimpphat (Glitter) | Shanghai 2024",
+                "name": "Jimpphat (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50416,7 +50416,7 @@
             },
             {
                 "id": "sticker-8150",
-                "name": "siuhy (Glitter) | Shanghai 2024",
+                "name": "siuhy (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50426,7 +50426,7 @@
             },
             {
                 "id": "sticker-8154",
-                "name": "karrigan (Glitter) | Shanghai 2024",
+                "name": "karrigan (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50436,7 +50436,7 @@
             },
             {
                 "id": "sticker-8158",
-                "name": "rain (Glitter) | Shanghai 2024",
+                "name": "rain (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50446,7 +50446,7 @@
             },
             {
                 "id": "sticker-8162",
-                "name": "ropz (Glitter) | Shanghai 2024",
+                "name": "ropz (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50456,7 +50456,7 @@
             },
             {
                 "id": "sticker-8166",
-                "name": "broky (Glitter) | Shanghai 2024",
+                "name": "broky (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50466,7 +50466,7 @@
             },
             {
                 "id": "sticker-8170",
-                "name": "frozen (Glitter) | Shanghai 2024",
+                "name": "frozen (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50476,7 +50476,7 @@
             },
             {
                 "id": "sticker-8174",
-                "name": "TeSeS (Glitter) | Shanghai 2024",
+                "name": "TeSeS (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50486,7 +50486,7 @@
             },
             {
                 "id": "sticker-8178",
-                "name": "sjuush (Glitter) | Shanghai 2024",
+                "name": "sjuush (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50496,7 +50496,7 @@
             },
             {
                 "id": "sticker-8182",
-                "name": "kyxsan (Glitter) | Shanghai 2024",
+                "name": "kyxsan (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50506,7 +50506,7 @@
             },
             {
                 "id": "sticker-8186",
-                "name": "NertZ (Glitter) | Shanghai 2024",
+                "name": "NertZ (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50516,7 +50516,7 @@
             },
             {
                 "id": "sticker-8190",
-                "name": "degster (Glitter) | Shanghai 2024",
+                "name": "degster (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50526,7 +50526,7 @@
             },
             {
                 "id": "sticker-8194",
-                "name": "Ex3rcice (Glitter) | Shanghai 2024",
+                "name": "Ex3rcice (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50536,7 +50536,7 @@
             },
             {
                 "id": "sticker-8198",
-                "name": "Djoko (Glitter) | Shanghai 2024",
+                "name": "Djoko (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50546,7 +50546,7 @@
             },
             {
                 "id": "sticker-8202",
-                "name": "Maka (Glitter) | Shanghai 2024",
+                "name": "Maka (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50556,7 +50556,7 @@
             },
             {
                 "id": "sticker-8206",
-                "name": "Lucky (Glitter) | Shanghai 2024",
+                "name": "Lucky (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50566,7 +50566,7 @@
             },
             {
                 "id": "sticker-8210",
-                "name": "Graviti (Glitter) | Shanghai 2024",
+                "name": "Graviti (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -50576,7 +50576,7 @@
             },
             {
                 "id": "sticker-8055",
-                "name": "Snax (Holo) | Shanghai 2024",
+                "name": "Snax (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50586,7 +50586,7 @@
             },
             {
                 "id": "sticker-8059",
-                "name": "huNter- (Holo) | Shanghai 2024",
+                "name": "huNter- (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50596,7 +50596,7 @@
             },
             {
                 "id": "sticker-8063",
-                "name": "malbsMd (Holo) | Shanghai 2024",
+                "name": "malbsMd (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50606,7 +50606,7 @@
             },
             {
                 "id": "sticker-8067",
-                "name": "m0NESY (Holo) | Shanghai 2024",
+                "name": "m0NESY (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50616,7 +50616,7 @@
             },
             {
                 "id": "sticker-8071",
-                "name": "NiKo (Holo) | Shanghai 2024",
+                "name": "NiKo (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50626,7 +50626,7 @@
             },
             {
                 "id": "sticker-8075",
-                "name": "w0nderful (Holo) | Shanghai 2024",
+                "name": "w0nderful (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50636,7 +50636,7 @@
             },
             {
                 "id": "sticker-8079",
-                "name": "Aleksib (Holo) | Shanghai 2024",
+                "name": "Aleksib (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50646,7 +50646,7 @@
             },
             {
                 "id": "sticker-8083",
-                "name": "jL (Holo) | Shanghai 2024",
+                "name": "jL (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50656,7 +50656,7 @@
             },
             {
                 "id": "sticker-8087",
-                "name": "b1t (Holo) | Shanghai 2024",
+                "name": "b1t (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50666,7 +50666,7 @@
             },
             {
                 "id": "sticker-8091",
-                "name": "iM (Holo) | Shanghai 2024",
+                "name": "iM (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50676,7 +50676,7 @@
             },
             {
                 "id": "sticker-8095",
-                "name": "ZywOo (Holo) | Shanghai 2024",
+                "name": "ZywOo (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50686,7 +50686,7 @@
             },
             {
                 "id": "sticker-8099",
-                "name": "apEX (Holo) | Shanghai 2024",
+                "name": "apEX (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50696,7 +50696,7 @@
             },
             {
                 "id": "sticker-8103",
-                "name": "mezii (Holo) | Shanghai 2024",
+                "name": "mezii (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50706,7 +50706,7 @@
             },
             {
                 "id": "sticker-8107",
-                "name": "FlameZ (Holo) | Shanghai 2024",
+                "name": "FlameZ (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50716,7 +50716,7 @@
             },
             {
                 "id": "sticker-8111",
-                "name": "Spinx (Holo) | Shanghai 2024",
+                "name": "Spinx (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50726,7 +50726,7 @@
             },
             {
                 "id": "sticker-8115",
-                "name": "chopper (Holo) | Shanghai 2024",
+                "name": "chopper (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50736,7 +50736,7 @@
             },
             {
                 "id": "sticker-8119",
-                "name": "magixx (Holo) | Shanghai 2024",
+                "name": "magixx (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50746,7 +50746,7 @@
             },
             {
                 "id": "sticker-8123",
-                "name": "donk (Holo) | Shanghai 2024",
+                "name": "donk (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50756,7 +50756,7 @@
             },
             {
                 "id": "sticker-8127",
-                "name": "sh1ro (Holo) | Shanghai 2024",
+                "name": "sh1ro (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50766,7 +50766,7 @@
             },
             {
                 "id": "sticker-8131",
-                "name": "zont1x (Holo) | Shanghai 2024",
+                "name": "zont1x (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50776,7 +50776,7 @@
             },
             {
                 "id": "sticker-8135",
-                "name": "torzsi (Holo) | Shanghai 2024",
+                "name": "torzsi (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50786,7 +50786,7 @@
             },
             {
                 "id": "sticker-8139",
-                "name": "xertioN (Holo) | Shanghai 2024",
+                "name": "xertioN (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50796,7 +50796,7 @@
             },
             {
                 "id": "sticker-8143",
-                "name": "Brollan (Holo) | Shanghai 2024",
+                "name": "Brollan (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50806,7 +50806,7 @@
             },
             {
                 "id": "sticker-8147",
-                "name": "Jimpphat (Holo) | Shanghai 2024",
+                "name": "Jimpphat (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50816,7 +50816,7 @@
             },
             {
                 "id": "sticker-8151",
-                "name": "siuhy (Holo) | Shanghai 2024",
+                "name": "siuhy (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50826,7 +50826,7 @@
             },
             {
                 "id": "sticker-8155",
-                "name": "karrigan (Holo) | Shanghai 2024",
+                "name": "karrigan (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50836,7 +50836,7 @@
             },
             {
                 "id": "sticker-8159",
-                "name": "rain (Holo) | Shanghai 2024",
+                "name": "rain (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50846,7 +50846,7 @@
             },
             {
                 "id": "sticker-8163",
-                "name": "ropz (Holo) | Shanghai 2024",
+                "name": "ropz (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50856,7 +50856,7 @@
             },
             {
                 "id": "sticker-8167",
-                "name": "broky (Holo) | Shanghai 2024",
+                "name": "broky (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50866,7 +50866,7 @@
             },
             {
                 "id": "sticker-8171",
-                "name": "frozen (Holo) | Shanghai 2024",
+                "name": "frozen (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50876,7 +50876,7 @@
             },
             {
                 "id": "sticker-8175",
-                "name": "TeSeS (Holo) | Shanghai 2024",
+                "name": "TeSeS (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50886,7 +50886,7 @@
             },
             {
                 "id": "sticker-8179",
-                "name": "sjuush (Holo) | Shanghai 2024",
+                "name": "sjuush (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50896,7 +50896,7 @@
             },
             {
                 "id": "sticker-8183",
-                "name": "kyxsan (Holo) | Shanghai 2024",
+                "name": "kyxsan (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50906,7 +50906,7 @@
             },
             {
                 "id": "sticker-8187",
-                "name": "NertZ (Holo) | Shanghai 2024",
+                "name": "NertZ (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50916,7 +50916,7 @@
             },
             {
                 "id": "sticker-8191",
-                "name": "degster (Holo) | Shanghai 2024",
+                "name": "degster (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50926,7 +50926,7 @@
             },
             {
                 "id": "sticker-8195",
-                "name": "Ex3rcice (Holo) | Shanghai 2024",
+                "name": "Ex3rcice (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50936,7 +50936,7 @@
             },
             {
                 "id": "sticker-8199",
-                "name": "Djoko (Holo) | Shanghai 2024",
+                "name": "Djoko (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50946,7 +50946,7 @@
             },
             {
                 "id": "sticker-8203",
-                "name": "Maka (Holo) | Shanghai 2024",
+                "name": "Maka (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50956,7 +50956,7 @@
             },
             {
                 "id": "sticker-8207",
-                "name": "Lucky (Holo) | Shanghai 2024",
+                "name": "Lucky (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50966,7 +50966,7 @@
             },
             {
                 "id": "sticker-8211",
-                "name": "Graviti (Holo) | Shanghai 2024",
+                "name": "Graviti (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -50976,7 +50976,7 @@
             },
             {
                 "id": "sticker-8056",
-                "name": "Snax (Gold) | Shanghai 2024",
+                "name": "Snax (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -50986,7 +50986,7 @@
             },
             {
                 "id": "sticker-8060",
-                "name": "huNter- (Gold) | Shanghai 2024",
+                "name": "huNter- (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -50996,7 +50996,7 @@
             },
             {
                 "id": "sticker-8064",
-                "name": "malbsMd (Gold) | Shanghai 2024",
+                "name": "malbsMd (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51006,7 +51006,7 @@
             },
             {
                 "id": "sticker-8068",
-                "name": "m0NESY (Gold) | Shanghai 2024",
+                "name": "m0NESY (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51016,7 +51016,7 @@
             },
             {
                 "id": "sticker-8072",
-                "name": "NiKo (Gold) | Shanghai 2024",
+                "name": "NiKo (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51026,7 +51026,7 @@
             },
             {
                 "id": "sticker-8076",
-                "name": "w0nderful (Gold) | Shanghai 2024",
+                "name": "w0nderful (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51036,7 +51036,7 @@
             },
             {
                 "id": "sticker-8080",
-                "name": "Aleksib (Gold) | Shanghai 2024",
+                "name": "Aleksib (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51046,7 +51046,7 @@
             },
             {
                 "id": "sticker-8084",
-                "name": "jL (Gold) | Shanghai 2024",
+                "name": "jL (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51056,7 +51056,7 @@
             },
             {
                 "id": "sticker-8088",
-                "name": "b1t (Gold) | Shanghai 2024",
+                "name": "b1t (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51066,7 +51066,7 @@
             },
             {
                 "id": "sticker-8092",
-                "name": "iM (Gold) | Shanghai 2024",
+                "name": "iM (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51076,7 +51076,7 @@
             },
             {
                 "id": "sticker-8096",
-                "name": "ZywOo (Gold) | Shanghai 2024",
+                "name": "ZywOo (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51086,7 +51086,7 @@
             },
             {
                 "id": "sticker-8100",
-                "name": "apEX (Gold) | Shanghai 2024",
+                "name": "apEX (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51096,7 +51096,7 @@
             },
             {
                 "id": "sticker-8104",
-                "name": "mezii (Gold) | Shanghai 2024",
+                "name": "mezii (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51106,7 +51106,7 @@
             },
             {
                 "id": "sticker-8108",
-                "name": "FlameZ (Gold) | Shanghai 2024",
+                "name": "FlameZ (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51116,7 +51116,7 @@
             },
             {
                 "id": "sticker-8112",
-                "name": "Spinx (Gold) | Shanghai 2024",
+                "name": "Spinx (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51126,7 +51126,7 @@
             },
             {
                 "id": "sticker-8116",
-                "name": "chopper (Gold) | Shanghai 2024",
+                "name": "chopper (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51136,7 +51136,7 @@
             },
             {
                 "id": "sticker-8120",
-                "name": "magixx (Gold) | Shanghai 2024",
+                "name": "magixx (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51146,7 +51146,7 @@
             },
             {
                 "id": "sticker-8124",
-                "name": "donk (Gold) | Shanghai 2024",
+                "name": "donk (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51156,7 +51156,7 @@
             },
             {
                 "id": "sticker-8128",
-                "name": "sh1ro (Gold) | Shanghai 2024",
+                "name": "sh1ro (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51166,7 +51166,7 @@
             },
             {
                 "id": "sticker-8132",
-                "name": "zont1x (Gold) | Shanghai 2024",
+                "name": "zont1x (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51176,7 +51176,7 @@
             },
             {
                 "id": "sticker-8136",
-                "name": "torzsi (Gold) | Shanghai 2024",
+                "name": "torzsi (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51186,7 +51186,7 @@
             },
             {
                 "id": "sticker-8140",
-                "name": "xertioN (Gold) | Shanghai 2024",
+                "name": "xertioN (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51196,7 +51196,7 @@
             },
             {
                 "id": "sticker-8144",
-                "name": "Brollan (Gold) | Shanghai 2024",
+                "name": "Brollan (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51206,7 +51206,7 @@
             },
             {
                 "id": "sticker-8148",
-                "name": "Jimpphat (Gold) | Shanghai 2024",
+                "name": "Jimpphat (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51216,7 +51216,7 @@
             },
             {
                 "id": "sticker-8152",
-                "name": "siuhy (Gold) | Shanghai 2024",
+                "name": "siuhy (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51226,7 +51226,7 @@
             },
             {
                 "id": "sticker-8156",
-                "name": "karrigan (Gold) | Shanghai 2024",
+                "name": "karrigan (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51236,7 +51236,7 @@
             },
             {
                 "id": "sticker-8160",
-                "name": "rain (Gold) | Shanghai 2024",
+                "name": "rain (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51246,7 +51246,7 @@
             },
             {
                 "id": "sticker-8164",
-                "name": "ropz (Gold) | Shanghai 2024",
+                "name": "ropz (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51256,7 +51256,7 @@
             },
             {
                 "id": "sticker-8168",
-                "name": "broky (Gold) | Shanghai 2024",
+                "name": "broky (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51266,7 +51266,7 @@
             },
             {
                 "id": "sticker-8172",
-                "name": "frozen (Gold) | Shanghai 2024",
+                "name": "frozen (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51276,7 +51276,7 @@
             },
             {
                 "id": "sticker-8176",
-                "name": "TeSeS (Gold) | Shanghai 2024",
+                "name": "TeSeS (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51286,7 +51286,7 @@
             },
             {
                 "id": "sticker-8180",
-                "name": "sjuush (Gold) | Shanghai 2024",
+                "name": "sjuush (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51296,7 +51296,7 @@
             },
             {
                 "id": "sticker-8184",
-                "name": "kyxsan (Gold) | Shanghai 2024",
+                "name": "kyxsan (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51306,7 +51306,7 @@
             },
             {
                 "id": "sticker-8188",
-                "name": "NertZ (Gold) | Shanghai 2024",
+                "name": "NertZ (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51316,7 +51316,7 @@
             },
             {
                 "id": "sticker-8192",
-                "name": "degster (Gold) | Shanghai 2024",
+                "name": "degster (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51326,7 +51326,7 @@
             },
             {
                 "id": "sticker-8196",
-                "name": "Ex3rcice (Gold) | Shanghai 2024",
+                "name": "Ex3rcice (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51336,7 +51336,7 @@
             },
             {
                 "id": "sticker-8200",
-                "name": "Djoko (Gold) | Shanghai 2024",
+                "name": "Djoko (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51346,7 +51346,7 @@
             },
             {
                 "id": "sticker-8204",
-                "name": "Maka (Gold) | Shanghai 2024",
+                "name": "Maka (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51356,7 +51356,7 @@
             },
             {
                 "id": "sticker-8208",
-                "name": "Lucky (Gold) | Shanghai 2024",
+                "name": "Lucky (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51366,7 +51366,7 @@
             },
             {
                 "id": "sticker-8212",
-                "name": "Graviti (Gold) | Shanghai 2024",
+                "name": "Graviti (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -51381,8 +51381,8 @@
     },
     {
         "id": "crate-4979",
-        "name": "Shanghai 2024 Challengers Autograph Capsule",
-        "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Challengers players at Shanghai 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "name": "Shanghai 2024 Kihívók Aláíráskapszula",
+        "description": "Ez a kapszula egyetlen, a Shanghai 2024 egyik Kihívója által aláírt papír, csillámos, hologramos vagy arany matricát tartalmaz.\\n\\nE kapszula minden eladásának bevételéből 50% az adott játékost és szervezetet támogatja.\\n\\nA matrica bármely általad birtokolt fegyverre felragasztható, és meg lehet kaparni, hogy viseltesebbnek tűnjön. Ugyanazt a matricát többször is megkaparhatod, minden alkalommal kicsivel viseltesebbé téve, amíg teljesen el nem távolítódik a fegyverről.",
         "type": "Autograph Capsule",
         "first_sale_date": null,
         "contains": [
@@ -51788,7 +51788,7 @@
             },
             {
                 "id": "sticker-8214",
-                "name": "FalleN (Glitter) | Shanghai 2024",
+                "name": "FalleN (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51798,7 +51798,7 @@
             },
             {
                 "id": "sticker-8218",
-                "name": "chelo (Glitter) | Shanghai 2024",
+                "name": "chelo (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51808,7 +51808,7 @@
             },
             {
                 "id": "sticker-8222",
-                "name": "yuurih (Glitter) | Shanghai 2024",
+                "name": "yuurih (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51818,7 +51818,7 @@
             },
             {
                 "id": "sticker-8226",
-                "name": "KSCERATO (Glitter) | Shanghai 2024",
+                "name": "KSCERATO (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51828,7 +51828,7 @@
             },
             {
                 "id": "sticker-8230",
-                "name": "skullz (Glitter) | Shanghai 2024",
+                "name": "skullz (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51838,7 +51838,7 @@
             },
             {
                 "id": "sticker-8234",
-                "name": "FL1T (Glitter) | Shanghai 2024",
+                "name": "FL1T (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51848,7 +51848,7 @@
             },
             {
                 "id": "sticker-8238",
-                "name": "Jame (Glitter) | Shanghai 2024",
+                "name": "Jame (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51858,7 +51858,7 @@
             },
             {
                 "id": "sticker-8242",
-                "name": "fame (Glitter) | Shanghai 2024",
+                "name": "fame (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51868,7 +51868,7 @@
             },
             {
                 "id": "sticker-8246",
-                "name": "n0rb3r7 (Glitter) | Shanghai 2024",
+                "name": "n0rb3r7 (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51878,7 +51878,7 @@
             },
             {
                 "id": "sticker-8250",
-                "name": "electronic (Glitter) | Shanghai 2024",
+                "name": "electronic (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51888,7 +51888,7 @@
             },
             {
                 "id": "sticker-8254",
-                "name": "Twistzz (Glitter) | Shanghai 2024",
+                "name": "Twistzz (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51898,7 +51898,7 @@
             },
             {
                 "id": "sticker-8258",
-                "name": "ultimate (Glitter) | Shanghai 2024",
+                "name": "ultimate (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51908,7 +51908,7 @@
             },
             {
                 "id": "sticker-8262",
-                "name": "YEKINDAR (Glitter) | Shanghai 2024",
+                "name": "YEKINDAR (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51918,7 +51918,7 @@
             },
             {
                 "id": "sticker-8266",
-                "name": "jks (Glitter) | Shanghai 2024",
+                "name": "jks (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51928,7 +51928,7 @@
             },
             {
                 "id": "sticker-8270",
-                "name": "NAF (Glitter) | Shanghai 2024",
+                "name": "NAF (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51938,7 +51938,7 @@
             },
             {
                 "id": "sticker-8274",
-                "name": "EliGE (Glitter) | Shanghai 2024",
+                "name": "EliGE (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51948,7 +51948,7 @@
             },
             {
                 "id": "sticker-8278",
-                "name": "floppy (Glitter) | Shanghai 2024",
+                "name": "floppy (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51958,7 +51958,7 @@
             },
             {
                 "id": "sticker-8282",
-                "name": "Grim (Glitter) | Shanghai 2024",
+                "name": "Grim (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51968,7 +51968,7 @@
             },
             {
                 "id": "sticker-8286",
-                "name": "hallzerk (Glitter) | Shanghai 2024",
+                "name": "hallzerk (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51978,7 +51978,7 @@
             },
             {
                 "id": "sticker-8290",
-                "name": "JT (Glitter) | Shanghai 2024",
+                "name": "JT (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51988,7 +51988,7 @@
             },
             {
                 "id": "sticker-8294",
-                "name": "tabseN (Glitter) | Shanghai 2024",
+                "name": "tabseN (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -51998,7 +51998,7 @@
             },
             {
                 "id": "sticker-8298",
-                "name": "Krimbo (Glitter) | Shanghai 2024",
+                "name": "Krimbo (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52008,7 +52008,7 @@
             },
             {
                 "id": "sticker-8302",
-                "name": "JDC (Glitter) | Shanghai 2024",
+                "name": "JDC (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52018,7 +52018,7 @@
             },
             {
                 "id": "sticker-8306",
-                "name": "syrsoN (Glitter) | Shanghai 2024",
+                "name": "syrsoN (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52028,7 +52028,7 @@
             },
             {
                 "id": "sticker-8310",
-                "name": "rigoN (Glitter) | Shanghai 2024",
+                "name": "rigoN (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52038,7 +52038,7 @@
             },
             {
                 "id": "sticker-8314",
-                "name": "KRIMZ (Glitter) | Shanghai 2024",
+                "name": "KRIMZ (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52048,7 +52048,7 @@
             },
             {
                 "id": "sticker-8318",
-                "name": "bodyy (Glitter) | Shanghai 2024",
+                "name": "bodyy (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52058,7 +52058,7 @@
             },
             {
                 "id": "sticker-8322",
-                "name": "MATYS (Glitter) | Shanghai 2024",
+                "name": "MATYS (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52068,7 +52068,7 @@
             },
             {
                 "id": "sticker-8326",
-                "name": "blameF (Glitter) | Shanghai 2024",
+                "name": "blameF (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52078,7 +52078,7 @@
             },
             {
                 "id": "sticker-8330",
-                "name": "afro (Glitter) | Shanghai 2024",
+                "name": "afro (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52088,7 +52088,7 @@
             },
             {
                 "id": "sticker-8334",
-                "name": "bLitz (Glitter) | Shanghai 2024",
+                "name": "bLitz (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52098,7 +52098,7 @@
             },
             {
                 "id": "sticker-8338",
-                "name": "910 (Glitter) | Shanghai 2024",
+                "name": "910 (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52108,7 +52108,7 @@
             },
             {
                 "id": "sticker-8342",
-                "name": "Techno4K (Glitter) | Shanghai 2024",
+                "name": "Techno4K (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52118,7 +52118,7 @@
             },
             {
                 "id": "sticker-8346",
-                "name": "Senzu (Glitter) | Shanghai 2024",
+                "name": "Senzu (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52128,7 +52128,7 @@
             },
             {
                 "id": "sticker-8350",
-                "name": "mzinho (Glitter) | Shanghai 2024",
+                "name": "mzinho (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52138,7 +52138,7 @@
             },
             {
                 "id": "sticker-8354",
-                "name": "biguzera (Glitter) | Shanghai 2024",
+                "name": "biguzera (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52148,7 +52148,7 @@
             },
             {
                 "id": "sticker-8358",
-                "name": "lux (Glitter) | Shanghai 2024",
+                "name": "lux (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52158,7 +52158,7 @@
             },
             {
                 "id": "sticker-8362",
-                "name": "kauez (Glitter) | Shanghai 2024",
+                "name": "kauez (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52168,7 +52168,7 @@
             },
             {
                 "id": "sticker-8366",
-                "name": "NQZ (Glitter) | Shanghai 2024",
+                "name": "NQZ (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52178,7 +52178,7 @@
             },
             {
                 "id": "sticker-8370",
-                "name": "snow (Glitter) | Shanghai 2024",
+                "name": "snow (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -52188,7 +52188,7 @@
             },
             {
                 "id": "sticker-8215",
-                "name": "FalleN (Holo) | Shanghai 2024",
+                "name": "FalleN (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52198,7 +52198,7 @@
             },
             {
                 "id": "sticker-8219",
-                "name": "chelo (Holo) | Shanghai 2024",
+                "name": "chelo (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52208,7 +52208,7 @@
             },
             {
                 "id": "sticker-8223",
-                "name": "yuurih (Holo) | Shanghai 2024",
+                "name": "yuurih (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52218,7 +52218,7 @@
             },
             {
                 "id": "sticker-8227",
-                "name": "KSCERATO (Holo) | Shanghai 2024",
+                "name": "KSCERATO (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52228,7 +52228,7 @@
             },
             {
                 "id": "sticker-8231",
-                "name": "skullz (Holo) | Shanghai 2024",
+                "name": "skullz (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52238,7 +52238,7 @@
             },
             {
                 "id": "sticker-8235",
-                "name": "FL1T (Holo) | Shanghai 2024",
+                "name": "FL1T (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52248,7 +52248,7 @@
             },
             {
                 "id": "sticker-8239",
-                "name": "Jame (Holo) | Shanghai 2024",
+                "name": "Jame (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52258,7 +52258,7 @@
             },
             {
                 "id": "sticker-8243",
-                "name": "fame (Holo) | Shanghai 2024",
+                "name": "fame (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52268,7 +52268,7 @@
             },
             {
                 "id": "sticker-8247",
-                "name": "n0rb3r7 (Holo) | Shanghai 2024",
+                "name": "n0rb3r7 (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52278,7 +52278,7 @@
             },
             {
                 "id": "sticker-8251",
-                "name": "electronic (Holo) | Shanghai 2024",
+                "name": "electronic (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52288,7 +52288,7 @@
             },
             {
                 "id": "sticker-8255",
-                "name": "Twistzz (Holo) | Shanghai 2024",
+                "name": "Twistzz (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52298,7 +52298,7 @@
             },
             {
                 "id": "sticker-8259",
-                "name": "ultimate (Holo) | Shanghai 2024",
+                "name": "ultimate (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52308,7 +52308,7 @@
             },
             {
                 "id": "sticker-8263",
-                "name": "YEKINDAR (Holo) | Shanghai 2024",
+                "name": "YEKINDAR (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52318,7 +52318,7 @@
             },
             {
                 "id": "sticker-8267",
-                "name": "jks (Holo) | Shanghai 2024",
+                "name": "jks (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52328,7 +52328,7 @@
             },
             {
                 "id": "sticker-8271",
-                "name": "NAF (Holo) | Shanghai 2024",
+                "name": "NAF (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52338,7 +52338,7 @@
             },
             {
                 "id": "sticker-8275",
-                "name": "EliGE (Holo) | Shanghai 2024",
+                "name": "EliGE (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52348,7 +52348,7 @@
             },
             {
                 "id": "sticker-8279",
-                "name": "floppy (Holo) | Shanghai 2024",
+                "name": "floppy (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52358,7 +52358,7 @@
             },
             {
                 "id": "sticker-8283",
-                "name": "Grim (Holo) | Shanghai 2024",
+                "name": "Grim (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52368,7 +52368,7 @@
             },
             {
                 "id": "sticker-8287",
-                "name": "hallzerk (Holo) | Shanghai 2024",
+                "name": "hallzerk (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52378,7 +52378,7 @@
             },
             {
                 "id": "sticker-8291",
-                "name": "JT (Holo) | Shanghai 2024",
+                "name": "JT (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52388,7 +52388,7 @@
             },
             {
                 "id": "sticker-8295",
-                "name": "tabseN (Holo) | Shanghai 2024",
+                "name": "tabseN (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52398,7 +52398,7 @@
             },
             {
                 "id": "sticker-8299",
-                "name": "Krimbo (Holo) | Shanghai 2024",
+                "name": "Krimbo (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52408,7 +52408,7 @@
             },
             {
                 "id": "sticker-8303",
-                "name": "JDC (Holo) | Shanghai 2024",
+                "name": "JDC (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52418,7 +52418,7 @@
             },
             {
                 "id": "sticker-8307",
-                "name": "syrsoN (Holo) | Shanghai 2024",
+                "name": "syrsoN (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52428,7 +52428,7 @@
             },
             {
                 "id": "sticker-8311",
-                "name": "rigoN (Holo) | Shanghai 2024",
+                "name": "rigoN (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52438,7 +52438,7 @@
             },
             {
                 "id": "sticker-8315",
-                "name": "KRIMZ (Holo) | Shanghai 2024",
+                "name": "KRIMZ (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52448,7 +52448,7 @@
             },
             {
                 "id": "sticker-8319",
-                "name": "bodyy (Holo) | Shanghai 2024",
+                "name": "bodyy (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52458,7 +52458,7 @@
             },
             {
                 "id": "sticker-8323",
-                "name": "MATYS (Holo) | Shanghai 2024",
+                "name": "MATYS (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52468,7 +52468,7 @@
             },
             {
                 "id": "sticker-8327",
-                "name": "blameF (Holo) | Shanghai 2024",
+                "name": "blameF (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52478,7 +52478,7 @@
             },
             {
                 "id": "sticker-8331",
-                "name": "afro (Holo) | Shanghai 2024",
+                "name": "afro (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52488,7 +52488,7 @@
             },
             {
                 "id": "sticker-8335",
-                "name": "bLitz (Holo) | Shanghai 2024",
+                "name": "bLitz (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52498,7 +52498,7 @@
             },
             {
                 "id": "sticker-8339",
-                "name": "910 (Holo) | Shanghai 2024",
+                "name": "910 (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52508,7 +52508,7 @@
             },
             {
                 "id": "sticker-8343",
-                "name": "Techno4K (Holo) | Shanghai 2024",
+                "name": "Techno4K (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52518,7 +52518,7 @@
             },
             {
                 "id": "sticker-8347",
-                "name": "Senzu (Holo) | Shanghai 2024",
+                "name": "Senzu (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52528,7 +52528,7 @@
             },
             {
                 "id": "sticker-8351",
-                "name": "mzinho (Holo) | Shanghai 2024",
+                "name": "mzinho (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52538,7 +52538,7 @@
             },
             {
                 "id": "sticker-8355",
-                "name": "biguzera (Holo) | Shanghai 2024",
+                "name": "biguzera (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52548,7 +52548,7 @@
             },
             {
                 "id": "sticker-8359",
-                "name": "lux (Holo) | Shanghai 2024",
+                "name": "lux (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52558,7 +52558,7 @@
             },
             {
                 "id": "sticker-8363",
-                "name": "kauez (Holo) | Shanghai 2024",
+                "name": "kauez (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52568,7 +52568,7 @@
             },
             {
                 "id": "sticker-8367",
-                "name": "NQZ (Holo) | Shanghai 2024",
+                "name": "NQZ (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52578,7 +52578,7 @@
             },
             {
                 "id": "sticker-8371",
-                "name": "snow (Holo) | Shanghai 2024",
+                "name": "snow (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -52588,7 +52588,7 @@
             },
             {
                 "id": "sticker-8216",
-                "name": "FalleN (Gold) | Shanghai 2024",
+                "name": "FalleN (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52598,7 +52598,7 @@
             },
             {
                 "id": "sticker-8220",
-                "name": "chelo (Gold) | Shanghai 2024",
+                "name": "chelo (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52608,7 +52608,7 @@
             },
             {
                 "id": "sticker-8224",
-                "name": "yuurih (Gold) | Shanghai 2024",
+                "name": "yuurih (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52618,7 +52618,7 @@
             },
             {
                 "id": "sticker-8228",
-                "name": "KSCERATO (Gold) | Shanghai 2024",
+                "name": "KSCERATO (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52628,7 +52628,7 @@
             },
             {
                 "id": "sticker-8232",
-                "name": "skullz (Gold) | Shanghai 2024",
+                "name": "skullz (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52638,7 +52638,7 @@
             },
             {
                 "id": "sticker-8236",
-                "name": "FL1T (Gold) | Shanghai 2024",
+                "name": "FL1T (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52648,7 +52648,7 @@
             },
             {
                 "id": "sticker-8240",
-                "name": "Jame (Gold) | Shanghai 2024",
+                "name": "Jame (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52658,7 +52658,7 @@
             },
             {
                 "id": "sticker-8244",
-                "name": "fame (Gold) | Shanghai 2024",
+                "name": "fame (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52668,7 +52668,7 @@
             },
             {
                 "id": "sticker-8248",
-                "name": "n0rb3r7 (Gold) | Shanghai 2024",
+                "name": "n0rb3r7 (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52678,7 +52678,7 @@
             },
             {
                 "id": "sticker-8252",
-                "name": "electronic (Gold) | Shanghai 2024",
+                "name": "electronic (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52688,7 +52688,7 @@
             },
             {
                 "id": "sticker-8256",
-                "name": "Twistzz (Gold) | Shanghai 2024",
+                "name": "Twistzz (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52698,7 +52698,7 @@
             },
             {
                 "id": "sticker-8260",
-                "name": "ultimate (Gold) | Shanghai 2024",
+                "name": "ultimate (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52708,7 +52708,7 @@
             },
             {
                 "id": "sticker-8264",
-                "name": "YEKINDAR (Gold) | Shanghai 2024",
+                "name": "YEKINDAR (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52718,7 +52718,7 @@
             },
             {
                 "id": "sticker-8268",
-                "name": "jks (Gold) | Shanghai 2024",
+                "name": "jks (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52728,7 +52728,7 @@
             },
             {
                 "id": "sticker-8272",
-                "name": "NAF (Gold) | Shanghai 2024",
+                "name": "NAF (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52738,7 +52738,7 @@
             },
             {
                 "id": "sticker-8276",
-                "name": "EliGE (Gold) | Shanghai 2024",
+                "name": "EliGE (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52748,7 +52748,7 @@
             },
             {
                 "id": "sticker-8280",
-                "name": "floppy (Gold) | Shanghai 2024",
+                "name": "floppy (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52758,7 +52758,7 @@
             },
             {
                 "id": "sticker-8284",
-                "name": "Grim (Gold) | Shanghai 2024",
+                "name": "Grim (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52768,7 +52768,7 @@
             },
             {
                 "id": "sticker-8288",
-                "name": "hallzerk (Gold) | Shanghai 2024",
+                "name": "hallzerk (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52778,7 +52778,7 @@
             },
             {
                 "id": "sticker-8292",
-                "name": "JT (Gold) | Shanghai 2024",
+                "name": "JT (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52788,7 +52788,7 @@
             },
             {
                 "id": "sticker-8296",
-                "name": "tabseN (Gold) | Shanghai 2024",
+                "name": "tabseN (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52798,7 +52798,7 @@
             },
             {
                 "id": "sticker-8300",
-                "name": "Krimbo (Gold) | Shanghai 2024",
+                "name": "Krimbo (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52808,7 +52808,7 @@
             },
             {
                 "id": "sticker-8304",
-                "name": "JDC (Gold) | Shanghai 2024",
+                "name": "JDC (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52818,7 +52818,7 @@
             },
             {
                 "id": "sticker-8308",
-                "name": "syrsoN (Gold) | Shanghai 2024",
+                "name": "syrsoN (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52828,7 +52828,7 @@
             },
             {
                 "id": "sticker-8312",
-                "name": "rigoN (Gold) | Shanghai 2024",
+                "name": "rigoN (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52838,7 +52838,7 @@
             },
             {
                 "id": "sticker-8316",
-                "name": "KRIMZ (Gold) | Shanghai 2024",
+                "name": "KRIMZ (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52848,7 +52848,7 @@
             },
             {
                 "id": "sticker-8320",
-                "name": "bodyy (Gold) | Shanghai 2024",
+                "name": "bodyy (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52858,7 +52858,7 @@
             },
             {
                 "id": "sticker-8324",
-                "name": "MATYS (Gold) | Shanghai 2024",
+                "name": "MATYS (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52868,7 +52868,7 @@
             },
             {
                 "id": "sticker-8328",
-                "name": "blameF (Gold) | Shanghai 2024",
+                "name": "blameF (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52878,7 +52878,7 @@
             },
             {
                 "id": "sticker-8332",
-                "name": "afro (Gold) | Shanghai 2024",
+                "name": "afro (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52888,7 +52888,7 @@
             },
             {
                 "id": "sticker-8336",
-                "name": "bLitz (Gold) | Shanghai 2024",
+                "name": "bLitz (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52898,7 +52898,7 @@
             },
             {
                 "id": "sticker-8340",
-                "name": "910 (Gold) | Shanghai 2024",
+                "name": "910 (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52908,7 +52908,7 @@
             },
             {
                 "id": "sticker-8344",
-                "name": "Techno4K (Gold) | Shanghai 2024",
+                "name": "Techno4K (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52918,7 +52918,7 @@
             },
             {
                 "id": "sticker-8348",
-                "name": "Senzu (Gold) | Shanghai 2024",
+                "name": "Senzu (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52928,7 +52928,7 @@
             },
             {
                 "id": "sticker-8352",
-                "name": "mzinho (Gold) | Shanghai 2024",
+                "name": "mzinho (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52938,7 +52938,7 @@
             },
             {
                 "id": "sticker-8356",
-                "name": "biguzera (Gold) | Shanghai 2024",
+                "name": "biguzera (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52948,7 +52948,7 @@
             },
             {
                 "id": "sticker-8360",
-                "name": "lux (Gold) | Shanghai 2024",
+                "name": "lux (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52958,7 +52958,7 @@
             },
             {
                 "id": "sticker-8364",
-                "name": "kauez (Gold) | Shanghai 2024",
+                "name": "kauez (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52968,7 +52968,7 @@
             },
             {
                 "id": "sticker-8368",
-                "name": "NQZ (Gold) | Shanghai 2024",
+                "name": "NQZ (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52978,7 +52978,7 @@
             },
             {
                 "id": "sticker-8372",
-                "name": "snow (Gold) | Shanghai 2024",
+                "name": "snow (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -52993,8 +52993,8 @@
     },
     {
         "id": "crate-4980",
-        "name": "Shanghai 2024 Contenders Autograph Capsule",
-        "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Contenders players at Shanghai 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "name": "Shanghai 2024 Esélyesek Aláíráskapszula",
+        "description": "Ez a kapszula egyetlen, a Shanghai 2024 egyik Esélyese által aláírt papír, csillámos, hologramos vagy arany matricát tartalmaz.\\n\\nE kapszula minden eladásának bevételéből 50% az adott játékost és szervezetet támogatja.\\n\\nA matrica bármely általad birtokolt fegyverre felragasztható, és meg lehet kaparni, hogy viseltesebbnek tűnjön. Ugyanazt a matricát többször is megkaparhatod, minden alkalommal kicsivel viseltesebbé téve, amíg teljesen el nem távolítódik a fegyverről.",
         "type": "Autograph Capsule",
         "first_sale_date": null,
         "contains": [
@@ -53080,13 +53080,13 @@
             },
             {
                 "id": "sticker-8405",
-                "name": "Lucaozy | Shanghai 2024",
+                "name": "brnz4n | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_rare",
                     "name": "Magas fokozatú",
                     "color": "#4b69ff"
                 },
-                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/sig_lucaozy_png.png"
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/sig_brnz4n_png.png"
             },
             {
                 "id": "sticker-8409",
@@ -53400,7 +53400,7 @@
             },
             {
                 "id": "sticker-8374",
-                "name": "ztr (Glitter) | Shanghai 2024",
+                "name": "ztr (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53410,7 +53410,7 @@
             },
             {
                 "id": "sticker-8378",
-                "name": "sl3nd (Glitter) | Shanghai 2024",
+                "name": "sl3nd (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53420,7 +53420,7 @@
             },
             {
                 "id": "sticker-8382",
-                "name": "Volt (Glitter) | Shanghai 2024",
+                "name": "Volt (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53430,7 +53430,7 @@
             },
             {
                 "id": "sticker-8386",
-                "name": "FL4MUS (Glitter) | Shanghai 2024",
+                "name": "FL4MUS (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53440,7 +53440,7 @@
             },
             {
                 "id": "sticker-8390",
-                "name": "aNdu (Glitter) | Shanghai 2024",
+                "name": "aNdu (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53450,7 +53450,7 @@
             },
             {
                 "id": "sticker-8394",
-                "name": "drop (Glitter) | Shanghai 2024",
+                "name": "drop (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53460,7 +53460,7 @@
             },
             {
                 "id": "sticker-8398",
-                "name": "saffee (Glitter) | Shanghai 2024",
+                "name": "saffee (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53470,7 +53470,7 @@
             },
             {
                 "id": "sticker-8402",
-                "name": "insani (Glitter) | Shanghai 2024",
+                "name": "insani (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53480,17 +53480,17 @@
             },
             {
                 "id": "sticker-8406",
-                "name": "Lucaozy (Glitter) | Shanghai 2024",
+                "name": "brnz4n (Glitter) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
                     "color": "#8847ff"
                 },
-                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/sig_lucaozy_glitter_png.png"
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/sig_brnz4n_glitter_png.png"
             },
             {
                 "id": "sticker-8410",
-                "name": "exit (Glitter) | Shanghai 2024",
+                "name": "exit (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53500,7 +53500,7 @@
             },
             {
                 "id": "sticker-8414",
-                "name": "Boombl4 (Glitter) | Shanghai 2024",
+                "name": "Boombl4 (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53510,7 +53510,7 @@
             },
             {
                 "id": "sticker-8418",
-                "name": "Ax1Le (Glitter) | Shanghai 2024",
+                "name": "Ax1Le (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53520,7 +53520,7 @@
             },
             {
                 "id": "sticker-8422",
-                "name": "Heavygod (Glitter) | Shanghai 2024",
+                "name": "Heavygod (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53530,7 +53530,7 @@
             },
             {
                 "id": "sticker-8426",
-                "name": "ICY (Glitter) | Shanghai 2024",
+                "name": "ICY (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53540,7 +53540,7 @@
             },
             {
                 "id": "sticker-8430",
-                "name": "Perfecto (Glitter) | Shanghai 2024",
+                "name": "Perfecto (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53550,7 +53550,7 @@
             },
             {
                 "id": "sticker-8434",
-                "name": "dexter (Glitter) | Shanghai 2024",
+                "name": "dexter (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53560,7 +53560,7 @@
             },
             {
                 "id": "sticker-8438",
-                "name": "Liazz (Glitter) | Shanghai 2024",
+                "name": "Liazz (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53570,7 +53570,7 @@
             },
             {
                 "id": "sticker-8442",
-                "name": "aliStair (Glitter) | Shanghai 2024",
+                "name": "aliStair (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53580,7 +53580,7 @@
             },
             {
                 "id": "sticker-8446",
-                "name": "INS (Glitter) | Shanghai 2024",
+                "name": "INS (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53590,7 +53590,7 @@
             },
             {
                 "id": "sticker-8450",
-                "name": "vexite (Glitter) | Shanghai 2024",
+                "name": "vexite (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53600,7 +53600,7 @@
             },
             {
                 "id": "sticker-8454",
-                "name": "fEAR (Glitter) | Shanghai 2024",
+                "name": "fEAR (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53610,7 +53610,7 @@
             },
             {
                 "id": "sticker-8458",
-                "name": "jambo (Glitter) | Shanghai 2024",
+                "name": "jambo (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53620,7 +53620,7 @@
             },
             {
                 "id": "sticker-8462",
-                "name": "jackasmo (Glitter) | Shanghai 2024",
+                "name": "jackasmo (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53630,7 +53630,7 @@
             },
             {
                 "id": "sticker-8466",
-                "name": "s-chilla (Glitter) | Shanghai 2024",
+                "name": "s-chilla (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53640,7 +53640,7 @@
             },
             {
                 "id": "sticker-8470",
-                "name": "zeRRoFIX (Glitter) | Shanghai 2024",
+                "name": "zeRRoFIX (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53650,7 +53650,7 @@
             },
             {
                 "id": "sticker-8474",
-                "name": "stanislaw (Glitter) | Shanghai 2024",
+                "name": "stanislaw (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53660,7 +53660,7 @@
             },
             {
                 "id": "sticker-8478",
-                "name": "Sonic (Glitter) | Shanghai 2024",
+                "name": "Sonic (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53670,7 +53670,7 @@
             },
             {
                 "id": "sticker-8482",
-                "name": "JBa (Glitter) | Shanghai 2024",
+                "name": "JBa (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53680,7 +53680,7 @@
             },
             {
                 "id": "sticker-8486",
-                "name": "phzy (Glitter) | Shanghai 2024",
+                "name": "phzy (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53690,7 +53690,7 @@
             },
             {
                 "id": "sticker-8490",
-                "name": "susp (Glitter) | Shanghai 2024",
+                "name": "susp (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53700,7 +53700,7 @@
             },
             {
                 "id": "sticker-8494",
-                "name": "Summer (Glitter) | Shanghai 2024",
+                "name": "Summer (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53710,7 +53710,7 @@
             },
             {
                 "id": "sticker-8498",
-                "name": "ChildKing (Glitter) | Shanghai 2024",
+                "name": "ChildKing (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53720,7 +53720,7 @@
             },
             {
                 "id": "sticker-8502",
-                "name": "somebody (Glitter) | Shanghai 2024",
+                "name": "somebody (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53730,7 +53730,7 @@
             },
             {
                 "id": "sticker-8506",
-                "name": "L1haNg (Glitter) | Shanghai 2024",
+                "name": "L1haNg (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53740,7 +53740,7 @@
             },
             {
                 "id": "sticker-8510",
-                "name": "Kaze (Glitter) | Shanghai 2024",
+                "name": "Kaze (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53750,7 +53750,7 @@
             },
             {
                 "id": "sticker-8514",
-                "name": "VINI (Glitter) | Shanghai 2024",
+                "name": "VINI (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53760,7 +53760,7 @@
             },
             {
                 "id": "sticker-8518",
-                "name": "felps (Glitter) | Shanghai 2024",
+                "name": "felps (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53770,7 +53770,7 @@
             },
             {
                 "id": "sticker-8522",
-                "name": "TRY (Glitter) | Shanghai 2024",
+                "name": "TRY (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53780,7 +53780,7 @@
             },
             {
                 "id": "sticker-8526",
-                "name": "decenty (Glitter) | Shanghai 2024",
+                "name": "decenty (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53790,7 +53790,7 @@
             },
             {
                 "id": "sticker-8530",
-                "name": "noway (Glitter) | Shanghai 2024",
+                "name": "noway (csillámos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_mythical",
                     "name": "Figyelemre méltó",
@@ -53800,7 +53800,7 @@
             },
             {
                 "id": "sticker-8375",
-                "name": "ztr (Holo) | Shanghai 2024",
+                "name": "ztr (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53810,7 +53810,7 @@
             },
             {
                 "id": "sticker-8379",
-                "name": "sl3nd (Holo) | Shanghai 2024",
+                "name": "sl3nd (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53820,7 +53820,7 @@
             },
             {
                 "id": "sticker-8383",
-                "name": "Volt (Holo) | Shanghai 2024",
+                "name": "Volt (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53830,7 +53830,7 @@
             },
             {
                 "id": "sticker-8387",
-                "name": "FL4MUS (Holo) | Shanghai 2024",
+                "name": "FL4MUS (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53840,7 +53840,7 @@
             },
             {
                 "id": "sticker-8391",
-                "name": "aNdu (Holo) | Shanghai 2024",
+                "name": "aNdu (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53850,7 +53850,7 @@
             },
             {
                 "id": "sticker-8395",
-                "name": "drop (Holo) | Shanghai 2024",
+                "name": "drop (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53860,7 +53860,7 @@
             },
             {
                 "id": "sticker-8399",
-                "name": "saffee (Holo) | Shanghai 2024",
+                "name": "saffee (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53870,7 +53870,7 @@
             },
             {
                 "id": "sticker-8403",
-                "name": "insani (Holo) | Shanghai 2024",
+                "name": "insani (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53880,17 +53880,17 @@
             },
             {
                 "id": "sticker-8407",
-                "name": "Lucaozy (Holo) | Shanghai 2024",
+                "name": "brnz4n (Holo) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
                     "color": "#d32ce6"
                 },
-                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/sig_lucaozy_holo_png.png"
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/sig_brnz4n_holo_png.png"
             },
             {
                 "id": "sticker-8411",
-                "name": "exit (Holo) | Shanghai 2024",
+                "name": "exit (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53900,7 +53900,7 @@
             },
             {
                 "id": "sticker-8415",
-                "name": "Boombl4 (Holo) | Shanghai 2024",
+                "name": "Boombl4 (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53910,7 +53910,7 @@
             },
             {
                 "id": "sticker-8419",
-                "name": "Ax1Le (Holo) | Shanghai 2024",
+                "name": "Ax1Le (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53920,7 +53920,7 @@
             },
             {
                 "id": "sticker-8423",
-                "name": "Heavygod (Holo) | Shanghai 2024",
+                "name": "Heavygod (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53930,7 +53930,7 @@
             },
             {
                 "id": "sticker-8427",
-                "name": "ICY (Holo) | Shanghai 2024",
+                "name": "ICY (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53940,7 +53940,7 @@
             },
             {
                 "id": "sticker-8431",
-                "name": "Perfecto (Holo) | Shanghai 2024",
+                "name": "Perfecto (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53950,7 +53950,7 @@
             },
             {
                 "id": "sticker-8435",
-                "name": "dexter (Holo) | Shanghai 2024",
+                "name": "dexter (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53960,7 +53960,7 @@
             },
             {
                 "id": "sticker-8439",
-                "name": "Liazz (Holo) | Shanghai 2024",
+                "name": "Liazz (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53970,7 +53970,7 @@
             },
             {
                 "id": "sticker-8443",
-                "name": "aliStair (Holo) | Shanghai 2024",
+                "name": "aliStair (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53980,7 +53980,7 @@
             },
             {
                 "id": "sticker-8447",
-                "name": "INS (Holo) | Shanghai 2024",
+                "name": "INS (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -53990,7 +53990,7 @@
             },
             {
                 "id": "sticker-8451",
-                "name": "vexite (Holo) | Shanghai 2024",
+                "name": "vexite (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54000,7 +54000,7 @@
             },
             {
                 "id": "sticker-8455",
-                "name": "fEAR (Holo) | Shanghai 2024",
+                "name": "fEAR (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54010,7 +54010,7 @@
             },
             {
                 "id": "sticker-8459",
-                "name": "jambo (Holo) | Shanghai 2024",
+                "name": "jambo (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54020,7 +54020,7 @@
             },
             {
                 "id": "sticker-8463",
-                "name": "jackasmo (Holo) | Shanghai 2024",
+                "name": "jackasmo (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54030,7 +54030,7 @@
             },
             {
                 "id": "sticker-8467",
-                "name": "s-chilla (Holo) | Shanghai 2024",
+                "name": "s-chilla (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54040,7 +54040,7 @@
             },
             {
                 "id": "sticker-8471",
-                "name": "zeRRoFIX (Holo) | Shanghai 2024",
+                "name": "zeRRoFIX (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54050,7 +54050,7 @@
             },
             {
                 "id": "sticker-8475",
-                "name": "stanislaw (Holo) | Shanghai 2024",
+                "name": "stanislaw (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54060,7 +54060,7 @@
             },
             {
                 "id": "sticker-8479",
-                "name": "Sonic (Holo) | Shanghai 2024",
+                "name": "Sonic (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54070,7 +54070,7 @@
             },
             {
                 "id": "sticker-8483",
-                "name": "JBa (Holo) | Shanghai 2024",
+                "name": "JBa (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54080,7 +54080,7 @@
             },
             {
                 "id": "sticker-8487",
-                "name": "phzy (Holo) | Shanghai 2024",
+                "name": "phzy (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54090,7 +54090,7 @@
             },
             {
                 "id": "sticker-8491",
-                "name": "susp (Holo) | Shanghai 2024",
+                "name": "susp (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54100,7 +54100,7 @@
             },
             {
                 "id": "sticker-8495",
-                "name": "Summer (Holo) | Shanghai 2024",
+                "name": "Summer (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54110,7 +54110,7 @@
             },
             {
                 "id": "sticker-8499",
-                "name": "ChildKing (Holo) | Shanghai 2024",
+                "name": "ChildKing (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54120,7 +54120,7 @@
             },
             {
                 "id": "sticker-8503",
-                "name": "somebody (Holo) | Shanghai 2024",
+                "name": "somebody (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54130,7 +54130,7 @@
             },
             {
                 "id": "sticker-8507",
-                "name": "L1haNg (Holo) | Shanghai 2024",
+                "name": "L1haNg (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54140,7 +54140,7 @@
             },
             {
                 "id": "sticker-8511",
-                "name": "Kaze (Holo) | Shanghai 2024",
+                "name": "Kaze (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54150,7 +54150,7 @@
             },
             {
                 "id": "sticker-8515",
-                "name": "VINI (Holo) | Shanghai 2024",
+                "name": "VINI (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54160,7 +54160,7 @@
             },
             {
                 "id": "sticker-8519",
-                "name": "felps (Holo) | Shanghai 2024",
+                "name": "felps (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54170,7 +54170,7 @@
             },
             {
                 "id": "sticker-8523",
-                "name": "TRY (Holo) | Shanghai 2024",
+                "name": "TRY (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54180,7 +54180,7 @@
             },
             {
                 "id": "sticker-8527",
-                "name": "decenty (Holo) | Shanghai 2024",
+                "name": "decenty (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54190,7 +54190,7 @@
             },
             {
                 "id": "sticker-8531",
-                "name": "noway (Holo) | Shanghai 2024",
+                "name": "noway (hologramos) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Egzotikus",
@@ -54200,7 +54200,7 @@
             },
             {
                 "id": "sticker-8376",
-                "name": "ztr (Gold) | Shanghai 2024",
+                "name": "ztr (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54210,7 +54210,7 @@
             },
             {
                 "id": "sticker-8380",
-                "name": "sl3nd (Gold) | Shanghai 2024",
+                "name": "sl3nd (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54220,7 +54220,7 @@
             },
             {
                 "id": "sticker-8384",
-                "name": "Volt (Gold) | Shanghai 2024",
+                "name": "Volt (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54230,7 +54230,7 @@
             },
             {
                 "id": "sticker-8388",
-                "name": "FL4MUS (Gold) | Shanghai 2024",
+                "name": "FL4MUS (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54240,7 +54240,7 @@
             },
             {
                 "id": "sticker-8392",
-                "name": "aNdu (Gold) | Shanghai 2024",
+                "name": "aNdu (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54250,7 +54250,7 @@
             },
             {
                 "id": "sticker-8396",
-                "name": "drop (Gold) | Shanghai 2024",
+                "name": "drop (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54260,7 +54260,7 @@
             },
             {
                 "id": "sticker-8400",
-                "name": "saffee (Gold) | Shanghai 2024",
+                "name": "saffee (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54270,7 +54270,7 @@
             },
             {
                 "id": "sticker-8404",
-                "name": "insani (Gold) | Shanghai 2024",
+                "name": "insani (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54280,17 +54280,17 @@
             },
             {
                 "id": "sticker-8408",
-                "name": "Lucaozy (Gold) | Shanghai 2024",
+                "name": "brnz4n (Gold) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
                     "color": "#eb4b4b"
                 },
-                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/sig_lucaozy_gold_png.png"
+                "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/sha2024/sig_brnz4n_gold_png.png"
             },
             {
                 "id": "sticker-8412",
-                "name": "exit (Gold) | Shanghai 2024",
+                "name": "exit (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54300,7 +54300,7 @@
             },
             {
                 "id": "sticker-8416",
-                "name": "Boombl4 (Gold) | Shanghai 2024",
+                "name": "Boombl4 (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54310,7 +54310,7 @@
             },
             {
                 "id": "sticker-8420",
-                "name": "Ax1Le (Gold) | Shanghai 2024",
+                "name": "Ax1Le (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54320,7 +54320,7 @@
             },
             {
                 "id": "sticker-8424",
-                "name": "Heavygod (Gold) | Shanghai 2024",
+                "name": "Heavygod (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54330,7 +54330,7 @@
             },
             {
                 "id": "sticker-8428",
-                "name": "ICY (Gold) | Shanghai 2024",
+                "name": "ICY (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54340,7 +54340,7 @@
             },
             {
                 "id": "sticker-8432",
-                "name": "Perfecto (Gold) | Shanghai 2024",
+                "name": "Perfecto (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54350,7 +54350,7 @@
             },
             {
                 "id": "sticker-8436",
-                "name": "dexter (Gold) | Shanghai 2024",
+                "name": "dexter (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54360,7 +54360,7 @@
             },
             {
                 "id": "sticker-8440",
-                "name": "Liazz (Gold) | Shanghai 2024",
+                "name": "Liazz (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54370,7 +54370,7 @@
             },
             {
                 "id": "sticker-8444",
-                "name": "aliStair (Gold) | Shanghai 2024",
+                "name": "aliStair (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54380,7 +54380,7 @@
             },
             {
                 "id": "sticker-8448",
-                "name": "INS (Gold) | Shanghai 2024",
+                "name": "INS (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54390,7 +54390,7 @@
             },
             {
                 "id": "sticker-8452",
-                "name": "vexite (Gold) | Shanghai 2024",
+                "name": "vexite (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54400,7 +54400,7 @@
             },
             {
                 "id": "sticker-8456",
-                "name": "fEAR (Gold) | Shanghai 2024",
+                "name": "fEAR (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54410,7 +54410,7 @@
             },
             {
                 "id": "sticker-8460",
-                "name": "jambo (Gold) | Shanghai 2024",
+                "name": "jambo (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54420,7 +54420,7 @@
             },
             {
                 "id": "sticker-8464",
-                "name": "jackasmo (Gold) | Shanghai 2024",
+                "name": "jackasmo (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54430,7 +54430,7 @@
             },
             {
                 "id": "sticker-8468",
-                "name": "s-chilla (Gold) | Shanghai 2024",
+                "name": "s-chilla (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54440,7 +54440,7 @@
             },
             {
                 "id": "sticker-8472",
-                "name": "zeRRoFIX (Gold) | Shanghai 2024",
+                "name": "zeRRoFIX (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54450,7 +54450,7 @@
             },
             {
                 "id": "sticker-8476",
-                "name": "stanislaw (Gold) | Shanghai 2024",
+                "name": "stanislaw (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54460,7 +54460,7 @@
             },
             {
                 "id": "sticker-8480",
-                "name": "Sonic (Gold) | Shanghai 2024",
+                "name": "Sonic (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54470,7 +54470,7 @@
             },
             {
                 "id": "sticker-8484",
-                "name": "JBa (Gold) | Shanghai 2024",
+                "name": "JBa (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54480,7 +54480,7 @@
             },
             {
                 "id": "sticker-8488",
-                "name": "phzy (Gold) | Shanghai 2024",
+                "name": "phzy (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54490,7 +54490,7 @@
             },
             {
                 "id": "sticker-8492",
-                "name": "susp (Gold) | Shanghai 2024",
+                "name": "susp (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54500,7 +54500,7 @@
             },
             {
                 "id": "sticker-8496",
-                "name": "Summer (Gold) | Shanghai 2024",
+                "name": "Summer (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54510,7 +54510,7 @@
             },
             {
                 "id": "sticker-8500",
-                "name": "ChildKing (Gold) | Shanghai 2024",
+                "name": "ChildKing (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54520,7 +54520,7 @@
             },
             {
                 "id": "sticker-8504",
-                "name": "somebody (Gold) | Shanghai 2024",
+                "name": "somebody (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54530,7 +54530,7 @@
             },
             {
                 "id": "sticker-8508",
-                "name": "L1haNg (Gold) | Shanghai 2024",
+                "name": "L1haNg (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54540,7 +54540,7 @@
             },
             {
                 "id": "sticker-8512",
-                "name": "Kaze (Gold) | Shanghai 2024",
+                "name": "Kaze (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54550,7 +54550,7 @@
             },
             {
                 "id": "sticker-8516",
-                "name": "VINI (Gold) | Shanghai 2024",
+                "name": "VINI (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54560,7 +54560,7 @@
             },
             {
                 "id": "sticker-8520",
-                "name": "felps (Gold) | Shanghai 2024",
+                "name": "felps (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54570,7 +54570,7 @@
             },
             {
                 "id": "sticker-8524",
-                "name": "TRY (Gold) | Shanghai 2024",
+                "name": "TRY (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54580,7 +54580,7 @@
             },
             {
                 "id": "sticker-8528",
-                "name": "decenty (Gold) | Shanghai 2024",
+                "name": "decenty (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54590,7 +54590,7 @@
             },
             {
                 "id": "sticker-8532",
-                "name": "noway (Gold) | Shanghai 2024",
+                "name": "noway (arany) | Shanghai 2024",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Rendkívüli",
@@ -54605,8 +54605,8 @@
     },
     {
         "id": "crate-4981",
-        "name": "Shanghai 2024 Champions Autograph Capsule",
-        "description": "This capsule contains a single Paper, Glitter, Holo, or Gold sticker autographed by one of the Champions players at Shanghai 2024.\\n\\n50% of the proceeds from the sale of this capsule support the included players and organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+        "name": "Shanghai 2024 Bajnokok Aláíráskapszula",
+        "description": "Ez a kapszula egyetlen, a Shanghai 2024 egyik Bajnoka által aláírt papír, csillámos, hologramos vagy arany matricát tartalmaz.\\n\\nE kapszula minden eladásának bevételéből 50% az adott játékost és szervezetet támogatja.\\n\\nA matrica bármely általad birtokolt fegyverre felragasztható, és meg lehet kaparni, hogy viseltesebbnek tűnjön. Ugyanazt a matricát többször is megkaparhatod, minden alkalommal kicsivel viseltesebbé téve, amíg teljesen el nem távolítódik a fegyverről.",
         "type": "Autograph Capsule",
         "first_sale_date": null,
         "contains": [],

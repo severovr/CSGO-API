@@ -937,8 +937,8 @@
     },
     {
         "id": "collectible-4982",
-        "name": "Whistle Map Coin",
-        "description": "Commemorates authorship of the CS2 Map 'Whistle'",
+        "name": "Whistle Harita Jetonu",
+        "description": "CS2 haritası \\\"Whistle\\\"ı oluşturduğu için verildi.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Olağandışı",
@@ -949,8 +949,8 @@
     },
     {
         "id": "collectible-4983",
-        "name": "Palais Map Coin",
-        "description": "Commemorates authorship of the CS2 Map 'Palais'",
+        "name": "Palais Harita Jetonu",
+        "description": "CS2 haritası \\\"Palais\\\"yi oluşturduğu için verildi.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Olağandışı",
@@ -961,8 +961,8 @@
     },
     {
         "id": "collectible-4984",
-        "name": "Edin Map Coin",
-        "description": "Commemorates authorship of the CS2 Map 'Edin'",
+        "name": "Edin Harita Jetonu",
+        "description": "CS2 haritası \\\"Edin\\\"i oluşturduğu için verildi.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Olağandışı",
@@ -973,8 +973,8 @@
     },
     {
         "id": "collectible-4985",
-        "name": "Basalt Map Coin",
-        "description": "Commemorates authorship of the CS2 Map 'Basalt'",
+        "name": "Basalt Harita Jetonu",
+        "description": "CS2 haritası \\\"Basalt\\\"ı oluşturduğu için verildi.",
         "rarity": {
             "id": "rarity_ancient",
             "name": "Olağandışı",
