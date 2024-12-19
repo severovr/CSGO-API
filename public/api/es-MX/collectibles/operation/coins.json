@@ -25,7 +25,7 @@
     },
     {
         "id": "collectible-1003",
-        "name": "Moneda de oro de la Operación Payback",
+        "name": "Moneda dorada de la Operación Payback",
         "description": "Participaste en la Operación Payback durante 50 horas para apoyar a los creadores de mapas de la comunidad.",
         "rarity": {
             "id": "rarity_ancient",
@@ -61,7 +61,7 @@
     },
     {
         "id": "collectible-1015",
-        "name": "Moneda de oro de la Operación Bravo",
+        "name": "Moneda dorada de la Operación Bravo",
         "description": "Participaste en la Operación Bravo.",
         "rarity": {
             "id": "rarity_ancient",
@@ -97,7 +97,7 @@
     },
     {
         "id": "collectible-1026",
-        "name": "Moneda de oro de la Operación Phoenix",
+        "name": "Moneda dorada de la Operación Phoenix",
         "description": "Participaste en la Operación Phoenix.",
         "rarity": {
             "id": "rarity_ancient",
@@ -133,7 +133,7 @@
     },
     {
         "id": "collectible-1030",
-        "name": "Moneda de oro de la Operación Breakout",
+        "name": "Moneda dorada de la Operación Breakout",
         "description": "Participaste en la Operación Breakout.",
         "rarity": {
             "id": "rarity_ancient",
@@ -169,7 +169,7 @@
     },
     {
         "id": "collectible-1318",
-        "name": "Moneda de oro de la Operación Vanguard",
+        "name": "Moneda dorada de la Operación Vanguard",
         "description": "Participaste en la Operación Vanguard.",
         "rarity": {
             "id": "rarity_ancient",
@@ -205,7 +205,7 @@
     },
     {
         "id": "collectible-1329",
-        "name": "Moneda de oro de la Operación Bloodhound",
+        "name": "Moneda dorada de la Operación Bloodhound",
         "description": "Participaste en la Operación Bloodhound.",
         "rarity": {
             "id": "rarity_ancient",
@@ -241,7 +241,7 @@
     },
     {
         "id": "collectible-1338",
-        "name": "Moneda de oro de la Operación Wildfire",
+        "name": "Moneda dorada de la Operación Wildfire",
         "description": "Participaste en la Operación Wildfire.",
         "rarity": {
             "id": "rarity_ancient",
@@ -277,7 +277,7 @@
     },
     {
         "id": "collectible-4355",
-        "name": "Moneda de oro de la Operación Hydra",
+        "name": "Moneda dorada de la Operación Hydra",
         "description": "Participaste en la Operación Hydra.",
         "rarity": {
             "id": "rarity_ancient",
@@ -325,7 +325,7 @@
     },
     {
         "id": "collectible-4552",
-        "name": "Moneda de oro de la Operación Shattered Web",
+        "name": "Moneda dorada de la Operación Shattered Web",
         "description": "Participó en la Operación Shattered Web.",
         "rarity": {
             "id": "rarity_ancient",
@@ -373,7 +373,7 @@
     },
     {
         "id": "collectible-4702",
-        "name": "Moneda de oro de la Operación Broken Fang",
+        "name": "Moneda dorada de la Operación Broken Fang",
         "description": "Participaste en la Operación Broken Fang.",
         "rarity": {
             "id": "rarity_ancient",
@@ -421,7 +421,7 @@
     },
     {
         "id": "collectible-4761",
-        "name": "Moneda de oro de la Operación Riptide",
+        "name": "Moneda dorada de la Operación Riptide",
         "description": "Participaste en la Operación Riptide.",
         "rarity": {
             "id": "rarity_ancient",
