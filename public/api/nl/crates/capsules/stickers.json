@@ -7707,7 +7707,7 @@
     },
     {
         "id": "crate-4599",
-        "name": "Feral Predators Capsule",
+        "name": "Feral Predators-capsule",
         "description": "Deze capsule bevat een verscheidenheid aan stickers van communityartiesten 2Minds, OniLolz en Zaphk.",
         "type": "Sticker Capsule",
         "first_sale_date": "2019/04/15",
@@ -9113,7 +9113,7 @@
     },
     {
         "id": "crate-4719",
-        "name": "Recoil Sticker Collection",
+        "name": "Recoil-stickercollectie",
         "description": null,
         "type": "Sticker Capsule",
         "first_sale_date": "2019/10/1",
@@ -11931,7 +11931,7 @@
     },
     {
         "id": "crate-4784",
-        "name": "The Boardroom Sticker Capsule",
+        "name": "De bestuurskamer-stickercapsule",
         "description": "This capsule contains a variety of stickers from Steam Workshop artists and was released in February 2022.",
         "type": "Sticker Capsule",
         "first_sale_date": "2022/02/20",
@@ -12118,7 +12118,7 @@
             },
             {
                 "id": "sticker-5267",
-                "name": "Face Me (Foil)",
+                "name": "Face Me (Glimmend)",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Exotisch",
@@ -12128,7 +12128,7 @@
             },
             {
                 "id": "sticker-5268",
-                "name": "Inferno Diorama (Foil)",
+                "name": "Inferno Diorama (Glimmend)",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Exotisch",
@@ -12138,7 +12138,7 @@
             },
             {
                 "id": "sticker-5269",
-                "name": "The Real MVP (Foil)",
+                "name": "The Real MVP (Glimmend)",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Exotisch",
@@ -12148,7 +12148,7 @@
             },
             {
                 "id": "sticker-5270",
-                "name": "Rock, Paper, Scissors (Foil)",
+                "name": "Rock, Paper, Scissors (Glimmend)",
                 "rarity": {
                     "id": "rarity_legendary",
                     "name": "Exotisch",
@@ -14577,7 +14577,7 @@
     },
     {
         "id": "crate-4847",
-        "name": "10 Year Birthday Sticker Capsule",
+        "name": "Stickercapsule 10e verjaardag",
         "description": "This capsule contains a variety of stickers from Steam Workshop artists celebrating CS:GO's 10th birthday.",
         "type": "Sticker Capsule",
         "first_sale_date": "2022/06/15",
@@ -15516,7 +15516,7 @@
             },
             {
                 "id": "sticker-5964",
-                "name": "ENCE (Gold) | Rio 2022",
+                "name": "ENCE (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15526,7 +15526,7 @@
             },
             {
                 "id": "sticker-5968",
-                "name": "FaZe Clan (Gold) | Rio 2022",
+                "name": "FaZe Clan (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15536,7 +15536,7 @@
             },
             {
                 "id": "sticker-5972",
-                "name": "Heroic (Gold) | Rio 2022",
+                "name": "Heroic (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15556,7 +15556,7 @@
             },
             {
                 "id": "sticker-5980",
-                "name": "Ninjas in Pyjamas (Gold) | Rio 2022",
+                "name": "Ninjas in Pyjamas (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15566,7 +15566,7 @@
             },
             {
                 "id": "sticker-5984",
-                "name": "Sprout Esports (Gold) | Rio 2022",
+                "name": "Sprout Esports (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15576,7 +15576,7 @@
             },
             {
                 "id": "sticker-5988",
-                "name": "Team Liquid (Gold) | Rio 2022",
+                "name": "Team Liquid (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15586,7 +15586,7 @@
             },
             {
                 "id": "sticker-5992",
-                "name": "Team Spirit (Gold) | Rio 2022",
+                "name": "Team Spirit (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15596,7 +15596,7 @@
             },
             {
                 "id": "sticker-6060",
-                "name": "IEM (Gold) | Rio 2022",
+                "name": "IEM (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15888,7 +15888,7 @@
             },
             {
                 "id": "sticker-5996",
-                "name": "9z Team (Gold) | Rio 2022",
+                "name": "9z Team (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15898,7 +15898,7 @@
             },
             {
                 "id": "sticker-6000",
-                "name": "Bad News Eagles (Gold) | Rio 2022",
+                "name": "Bad News Eagles (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15908,7 +15908,7 @@
             },
             {
                 "id": "sticker-6004",
-                "name": "BIG (Gold) | Rio 2022",
+                "name": "BIG (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15918,7 +15918,7 @@
             },
             {
                 "id": "sticker-6008",
-                "name": "Cloud9 (Gold) | Rio 2022",
+                "name": "Cloud9 (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15928,7 +15928,7 @@
             },
             {
                 "id": "sticker-6012",
-                "name": "Evil Geniuses (Gold) | Rio 2022",
+                "name": "Evil Geniuses (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15938,7 +15938,7 @@
             },
             {
                 "id": "sticker-6016",
-                "name": "MOUZ (Gold) | Rio 2022",
+                "name": "MOUZ (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15948,7 +15948,7 @@
             },
             {
                 "id": "sticker-6020",
-                "name": "OG (Gold) | Rio 2022",
+                "name": "OG (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15958,7 +15958,7 @@
             },
             {
                 "id": "sticker-6024",
-                "name": "Vitality (Gold) | Rio 2022",
+                "name": "Vitality (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -15968,7 +15968,7 @@
             },
             {
                 "id": "sticker-6060",
-                "name": "IEM (Gold) | Rio 2022",
+                "name": "IEM (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16260,7 +16260,7 @@
             },
             {
                 "id": "sticker-6028",
-                "name": "00 Nation (Gold) | Rio 2022",
+                "name": "00 Nation (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16270,7 +16270,7 @@
             },
             {
                 "id": "sticker-6032",
-                "name": "Fnatic (Gold) | Rio 2022",
+                "name": "Fnatic (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16280,7 +16280,7 @@
             },
             {
                 "id": "sticker-6036",
-                "name": "FURIA (Gold) | Rio 2022",
+                "name": "FURIA (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16290,7 +16290,7 @@
             },
             {
                 "id": "sticker-6040",
-                "name": "GamerLegion (Gold) | Rio 2022",
+                "name": "GamerLegion (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16300,7 +16300,7 @@
             },
             {
                 "id": "sticker-6044",
-                "name": "Grayhound Gaming (Gold) | Rio 2022",
+                "name": "Grayhound Gaming (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16310,7 +16310,7 @@
             },
             {
                 "id": "sticker-6048",
-                "name": "IHC Esports (Gold) | Rio 2022",
+                "name": "IHC Esports (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16320,7 +16320,7 @@
             },
             {
                 "id": "sticker-6052",
-                "name": "Imperial Esports (Gold) | Rio 2022",
+                "name": "Imperial Esports (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16330,7 +16330,7 @@
             },
             {
                 "id": "sticker-6056",
-                "name": "Outsiders (Gold) | Rio 2022",
+                "name": "Outsiders (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16340,7 +16340,7 @@
             },
             {
                 "id": "sticker-6060",
-                "name": "IEM (Gold) | Rio 2022",
+                "name": "IEM (Goud) | Rio 2022",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16355,7 +16355,7 @@
     },
     {
         "id": "crate-4879",
-        "name": "Espionage Sticker Capsule",
+        "name": "Spionage-stickercapsule",
         "description": "This capsule contains a variety of stickers from Steam Workshop artists and was released in February 2023.",
         "type": "Sticker Capsule",
         "first_sale_date": "2023/01/05",
@@ -16854,7 +16854,7 @@
             },
             {
                 "id": "sticker-6611",
-                "name": "Fnatic (Gold) | Paris 2023",
+                "name": "Fnatic (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16864,7 +16864,7 @@
             },
             {
                 "id": "sticker-6615",
-                "name": "Natus Vincere (Gold) | Paris 2023",
+                "name": "Natus Vincere (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16874,7 +16874,7 @@
             },
             {
                 "id": "sticker-6619",
-                "name": "FURIA (Gold) | Paris 2023",
+                "name": "FURIA (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16884,7 +16884,7 @@
             },
             {
                 "id": "sticker-6623",
-                "name": "Vitality (Gold) | Paris 2023",
+                "name": "Vitality (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16894,7 +16894,7 @@
             },
             {
                 "id": "sticker-6627",
-                "name": "Heroic (Gold) | Paris 2023",
+                "name": "Heroic (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16904,7 +16904,7 @@
             },
             {
                 "id": "sticker-6631",
-                "name": "Bad News Eagles (Gold) | Paris 2023",
+                "name": "Bad News Eagles (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16914,7 +16914,7 @@
             },
             {
                 "id": "sticker-6635",
-                "name": "Into The Breach (Gold) | Paris 2023",
+                "name": "Into The Breach (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16924,7 +16924,7 @@
             },
             {
                 "id": "sticker-6639",
-                "name": "9INE (Gold) | Paris 2023",
+                "name": "9INE (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -16934,7 +16934,7 @@
             },
             {
                 "id": "sticker-6707",
-                "name": "BLAST.tv (Gold) | Paris 2023",
+                "name": "BLAST.tv (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17226,7 +17226,7 @@
             },
             {
                 "id": "sticker-6643",
-                "name": "Ninjas in Pyjamas (Gold) | Paris 2023",
+                "name": "Ninjas in Pyjamas (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17236,7 +17236,7 @@
             },
             {
                 "id": "sticker-6647",
-                "name": "G2 Esports (Gold) | Paris 2023",
+                "name": "G2 Esports (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17246,7 +17246,7 @@
             },
             {
                 "id": "sticker-6651",
-                "name": "forZe eSports (Gold) | Paris 2023",
+                "name": "forZe eSports (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17256,7 +17256,7 @@
             },
             {
                 "id": "sticker-6655",
-                "name": "OG (Gold) | Paris 2023",
+                "name": "OG (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17266,7 +17266,7 @@
             },
             {
                 "id": "sticker-6659",
-                "name": "paiN Gaming (Gold) | Paris 2023",
+                "name": "paiN Gaming (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17276,7 +17276,7 @@
             },
             {
                 "id": "sticker-6663",
-                "name": "GamerLegion (Gold) | Paris 2023",
+                "name": "GamerLegion (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17286,7 +17286,7 @@
             },
             {
                 "id": "sticker-6667",
-                "name": "Apeks (Gold) | Paris 2023",
+                "name": "Apeks (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17296,7 +17296,7 @@
             },
             {
                 "id": "sticker-6671",
-                "name": "Monte (Gold) | Paris 2023",
+                "name": "Monte (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17306,7 +17306,7 @@
             },
             {
                 "id": "sticker-6707",
-                "name": "BLAST.tv (Gold) | Paris 2023",
+                "name": "BLAST.tv (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17598,7 +17598,7 @@
             },
             {
                 "id": "sticker-6675",
-                "name": "Team Liquid (Gold) | Paris 2023",
+                "name": "Team Liquid (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17608,7 +17608,7 @@
             },
             {
                 "id": "sticker-6679",
-                "name": "FaZe Clan (Gold) | Paris 2023",
+                "name": "FaZe Clan (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17618,7 +17618,7 @@
             },
             {
                 "id": "sticker-6683",
-                "name": "ENCE (Gold) | Paris 2023",
+                "name": "ENCE (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17628,7 +17628,7 @@
             },
             {
                 "id": "sticker-6687",
-                "name": "Grayhound Gaming (Gold) | Paris 2023",
+                "name": "Grayhound Gaming (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17638,7 +17638,7 @@
             },
             {
                 "id": "sticker-6691",
-                "name": "MOUZ (Gold) | Paris 2023",
+                "name": "MOUZ (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17648,7 +17648,7 @@
             },
             {
                 "id": "sticker-6695",
-                "name": "Complexity Gaming (Gold) | Paris 2023",
+                "name": "Complexity Gaming (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17658,7 +17658,7 @@
             },
             {
                 "id": "sticker-6699",
-                "name": "Fluxo (Gold) | Paris 2023",
+                "name": "Fluxo (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17668,7 +17668,7 @@
             },
             {
                 "id": "sticker-6703",
-                "name": "The MongolZ (Gold) | Paris 2023",
+                "name": "The MongolZ (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
@@ -17678,7 +17678,7 @@
             },
             {
                 "id": "sticker-6707",
-                "name": "BLAST.tv (Gold) | Paris 2023",
+                "name": "BLAST.tv (Goud) | Paris 2023",
                 "rarity": {
                     "id": "rarity_ancient",
                     "name": "Buitengewoon",
