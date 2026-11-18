@@ -11526,6 +11526,196 @@
   }
  },
  {
+  "id": "collectible-5410",
+  "name": "新加坡 2026观众通行证",
+  "description": "这是一张封装的2026年PGL新加坡反恐精英锦标赛观众通行证。通行证一旦启封，您将获得一枚可追踪您整个赛事进度的新加坡 2026 硬币，享有新加坡 2026竞猜挑战的全部权限，Steam.tv聊天表情、硬币挑战，以及赛事期间无限次的游戏内涂鸦机会。\\n\\n通过完成硬币挑战来升级您的新加坡 2026硬币。每次升级硬币，您都将赚取300枚新加坡 2026代币。\\n\\n此通行证销售收入的50%将用于支持参与的选手和组织。",
+  "def_index": "5410",
+  "rarity": {
+   "id": "rarity_common",
+   "name": "普通级",
+   "color": "#b0c3d9"
+  },
+  "type": "Tournament Pass",
+  "genuine": false,
+  "market_hash_name": "Singapore 2026 Viewer Pass",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_pass_png.png",
+  "original": {
+   "item_name": "#CSGO_TournamentPass_singapore2026",
+   "image_inventory": "econ/tournaments/singapore2026/singapore2026_pass"
+  }
+ },
+ {
+  "id": "collectible-5411",
+  "name": "新加坡 2026观众通行证 + 900代币",
+  "description": "这是一张封装的2026年PGL新加坡反恐精英锦标赛观众通行证。通行证一旦启封，您将获得一枚可追踪您整个赛事进度的新加坡 2026 硬币，享有新加坡 2026竞猜挑战的全部权限，Steam.tv聊天表情、硬币挑战，以及赛事期间无限次的游戏内涂鸦机会。\\n\\n通过完成硬币挑战来升级您的新加坡 2026硬币。每次升级硬币，您都将赚取300枚新加坡 2026代币。\\n\\n这张观众通行证将预先激活您的新加坡 2026硬币，并附送900枚新加坡 2026代币。\\n\\n其中，50%的销售收益将用于支持参与的玩家和组织。",
+  "def_index": "5411",
+  "rarity": {
+   "id": "rarity_common",
+   "name": "普通级",
+   "color": "#b0c3d9"
+  },
+  "type": "Tournament Pass",
+  "genuine": false,
+  "market_hash_name": "Singapore 2026 Viewer Pass + 900 Tokens",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_pass_pack_png.png",
+  "original": {
+   "item_name": "#CSGO_TournamentPass_singapore2026_pack",
+   "image_inventory": "econ/tournaments/singapore2026/singapore2026_pass_pack"
+  }
+ },
+ {
+  "id": "collectible-5412",
+  "name": "新加坡 2026 硬币",
+  "description": "这是一枚2026年PGL新加坡反恐精英锦标赛硬币，它将追踪您在整个赛事期间的进度，提供新加坡 2026赛事竞猜挑战、Steam.tv的聊天表情、硬币挑战以及活动期间无限次使用的赛事涂鸦。\\n\\n通过完成硬币挑战来升级您的新加坡 2026硬币。每次升级硬币时可赚取300枚新加坡 2026代币。",
+  "def_index": "5412",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "非凡",
+   "color": "#eb4b4b"
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_coin_bronze_png.png",
+  "original": {
+   "item_name": "#CSGO_TournamentJournal_singapore2026",
+   "image_inventory": "econ/tournaments/singapore2026/singapore2026_coin_bronze"
+  }
+ },
+ {
+  "id": "collectible-5413",
+  "name": "新加坡 2026 银色硬币",
+  "description": "这是一枚2026年PGL新加坡反恐精英锦标赛硬币，它将追踪您在整个赛事期间的进度，提供新加坡 2026赛事竞猜挑战、Steam.tv的聊天表情、硬币挑战以及活动期间无限次使用的赛事涂鸦。\\n\\n通过完成硬币挑战来升级您的新加坡 2026硬币。每次升级硬币时可赚取300枚新加坡 2026代币。",
+  "def_index": "5413",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "非凡",
+   "color": "#eb4b4b"
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_coin_silver_png.png",
+  "original": {
+   "item_name": "#CSGO_TournamentJournal_singapore2026_Silver",
+   "image_inventory": "econ/tournaments/singapore2026/singapore2026_coin_silver"
+  }
+ },
+ {
+  "id": "collectible-5414",
+  "name": "新加坡 2026 金色硬币",
+  "description": "这是一枚2026年PGL新加坡反恐精英锦标赛硬币，它将追踪您在整个赛事期间的进度，提供新加坡 2026赛事竞猜挑战、Steam.tv的聊天表情、硬币挑战以及活动期间无限次使用的赛事涂鸦。\\n\\n通过完成硬币挑战来升级您的新加坡 2026硬币。每次升级硬币时可赚取300枚新加坡 2026代币。",
+  "def_index": "5414",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "非凡",
+   "color": "#eb4b4b"
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_coin_gold_png.png",
+  "original": {
+   "item_name": "#CSGO_TournamentJournal_singapore2026_Gold",
+   "image_inventory": "econ/tournaments/singapore2026/singapore2026_coin_gold"
+  }
+ },
+ {
+  "id": "collectible-5415",
+  "name": "新加坡 2026 钻石硬币",
+  "description": "这是一枚2026年PGL新加坡反恐精英锦标赛硬币，它将追踪您在整个赛事期间的进度，提供新加坡 2026赛事竞猜挑战、Steam.tv的聊天表情、硬币挑战以及活动期间无限次使用的赛事涂鸦。\\n\\n通过完成硬币挑战来升级您的新加坡 2026硬币。每次升级硬币时可赚取300枚新加坡 2026代币。",
+  "def_index": "5415",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "非凡",
+   "color": "#eb4b4b"
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_coin_crystal_png.png",
+  "original": {
+   "item_name": "#CSGO_TournamentJournal_singapore2026_Crystal",
+   "image_inventory": "econ/tournaments/singapore2026/singapore2026_coin_crystal"
+  }
+ },
+ {
+  "id": "collectible-5419",
+  "name": "2026年PGL新加坡锦标赛冠军",
+  "description": "该锦标赛奖杯授予2026年PGL新加坡反恐精英锦标赛冠军。",
+  "def_index": "5419",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "非凡",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSD91ll_J7L6Uq1fh75n5vw9C1V_Lyobv0_IabEDDfDlLgis7Q7TXuylE1-tTvSmduodHjGOwElAsEiQu9crFDmxSMnd7Jc",
+  "original": {
+   "item_name": "#CSGO_CollectibleCoin_singapore2026_Champion",
+   "image_inventory": "econ/status_icons/trophy_cs2_champions"
+  }
+ },
+ {
+  "id": "collectible-5420",
+  "name": "2026年PGL新加坡锦标赛决赛选手",
+  "description": "该锦标赛奖牌授予2026年PGL新加坡反恐精英锦标赛决赛选手。",
+  "def_index": "5420",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "非凡",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSD91ll_J7L6Uq1fhv4kJfs9DFP_Lysa_w4JqGQDWaVkOp36bM4F3-1lEx1sG_XzNqtcn7DaFIhA5AiRuANrFDmxWMFZezK",
+  "original": {
+   "item_name": "#CSGO_CollectibleCoin_singapore2026_Finalist",
+   "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  }
+ },
+ {
+  "id": "collectible-5421",
+  "name": "2026年PGL新加坡锦标赛半决赛选手",
+  "description": "该锦标赛奖牌授予2026年PGL新加坡反恐精英锦标赛半决赛选手。",
+  "def_index": "5421",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "非凡",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSD91ll_J7L6Uq1fhv4kJfs9DFP_Lysa_w4JqGQDWaVkOp36bM4F3-1lEx1sG_XzNqtcn7DaFIhA5AiRuANrFDmxWMFZezK",
+  "original": {
+   "item_name": "#CSGO_CollectibleCoin_singapore2026_Semifinalist",
+   "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  }
+ },
+ {
+  "id": "collectible-5422",
+  "name": "2026年PGL新加坡锦标赛四分之一决赛选手",
+  "description": "该锦标赛奖牌授予2026年PGL新加坡反恐精英锦标赛四分之一决赛选手。",
+  "def_index": "5422",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "非凡",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSD91ll_J7L6Uq1fhv4kJfs9DFP_Lysa_w4JqGQDWaVkOp36bM4F3-1lEx1sG_XzNqtcn7DaFIhA5AiRuANrFDmxWMFZezK",
+  "original": {
+   "item_name": "#CSGO_CollectibleCoin_singapore2026_Quarterfinalist",
+   "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  }
+ },
+ {
   "id": "collectible-6001",
   "name": "炙热沙城 II 胸章（纯正）",
   "description": "这是一枚系列 1 的收藏胸章。您可以在个人资料上展示此胸章。",

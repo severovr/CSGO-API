@@ -3436,5 +3436,293 @@
    "name": "starjunk95_01",
    "image_inventory": "econ/music_kits/starjunk95_01"
   }
+ },
+ {
+  "id": "music_kit-105",
+  "name": "音乐盒 | ALLEYCVT & LEVEL UP, 相信",
+  "description": "这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>ALLEYCVT与LEVEL UP强强联手，带来《相信》这首持续高能的贝斯劲曲，其炸裂的重低音足以撼动整个服务器。",
+  "def_index": "105",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | ALLEYCVT & LEVEL UP, BELIEVE",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alleycvt_01_png.png",
+  "original": {
+   "name": "alleycvt_01",
+   "image_inventory": "econ/music_kits/alleycvt_01"
+  }
+ },
+ {
+  "id": "music_kit-105_st",
+  "name": "StatTrak™ 音乐盒 | ALLEYCVT & LEVEL UP, 相信",
+  "description": "<span style='color:#99ccff;'>该物品具有 StatTrak™ 技术，在其所有者装备时能跟踪若干统计数据。</span><br/><br/><span style='color:#cf6a32;'>该物品记录官方竞技 MVP 次数。</span><br/><br/>这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>ALLEYCVT与LEVEL UP强强联手，带来《相信》这首持续高能的贝斯劲曲，其炸裂的重低音足以撼动整个服务器。",
+  "def_index": "105",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | ALLEYCVT & LEVEL UP, BELIEVE",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alleycvt_01_png.png",
+  "original": {
+   "name": "alleycvt_01",
+   "image_inventory": "econ/music_kits/alleycvt_01"
+  }
+ },
+ {
+  "id": "music_kit-106",
+  "name": "音乐盒 | Arcando & Pirapus, 超声波",
+  "description": "这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>来自Arcando与Pirapus合作的《超声波》是一首高速的鼓打贝斯战歌，从首次交火到最后一击，压迫感始终不减。",
+  "def_index": "106",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Arcando & Pirapus, Ultrasound",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/arcando_01_png.png",
+  "original": {
+   "name": "arcando_01",
+   "image_inventory": "econ/music_kits/arcando_01"
+  }
+ },
+ {
+  "id": "music_kit-106_st",
+  "name": "StatTrak™ 音乐盒 | Arcando & Pirapus, 超声波",
+  "description": "<span style='color:#99ccff;'>该物品具有 StatTrak™ 技术，在其所有者装备时能跟踪若干统计数据。</span><br/><br/><span style='color:#cf6a32;'>该物品记录官方竞技 MVP 次数。</span><br/><br/>这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>来自Arcando与Pirapus合作的《超声波》是一首高速的鼓打贝斯战歌，从首次交火到最后一击，压迫感始终不减。",
+  "def_index": "106",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Arcando & Pirapus, Ultrasound",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/arcando_01_png.png",
+  "original": {
+   "name": "arcando_01",
+   "image_inventory": "econ/music_kits/arcando_01"
+  }
+ },
+ {
+  "id": "music_kit-107",
+  "name": "音乐盒 | DJ DIESEL & Hairitage, 甩起头来",
+  "description": "这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>当DJ DIESEL（本名沙奎尔·奥尼尔）与重低音巨头Hairitage联手，便诞生了《甩起头来》，一首专为爆头而生的Dubstep劲曲。",
+  "def_index": "107",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/djdiesel_01_png.png",
+  "original": {
+   "name": "djdiesel_01",
+   "image_inventory": "econ/music_kits/djdiesel_01"
+  }
+ },
+ {
+  "id": "music_kit-107_st",
+  "name": "StatTrak™ 音乐盒 | DJ DIESEL & Hairitage, 甩起头来",
+  "description": "<span style='color:#99ccff;'>该物品具有 StatTrak™ 技术，在其所有者装备时能跟踪若干统计数据。</span><br/><br/><span style='color:#cf6a32;'>该物品记录官方竞技 MVP 次数。</span><br/><br/>这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>当DJ DIESEL（本名沙奎尔·奥尼尔）与重低音巨头Hairitage联手，便诞生了《甩起头来》，一首专为爆头而生的Dubstep劲曲。",
+  "def_index": "107",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/djdiesel_01_png.png",
+  "original": {
+   "name": "djdiesel_01",
+   "image_inventory": "econ/music_kits/djdiesel_01"
+  }
+ },
+ {
+  "id": "music_kit-108",
+  "name": "音乐盒 | F.O.O.L, 狂徒",
+  "description": "这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>T方终于有主题曲了。F.O.O.L的《狂徒》黑暗、极具电影感，且充满合成器浪潮气息，为每一次爆弹战术提供了完美配乐。",
+  "def_index": "108",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | F.O.O.L, Criminals",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/fool_01_png.png",
+  "original": {
+   "name": "fool_01",
+   "image_inventory": "econ/music_kits/fool_01"
+  }
+ },
+ {
+  "id": "music_kit-108_st",
+  "name": "StatTrak™ 音乐盒 | F.O.O.L, 狂徒",
+  "description": "<span style='color:#99ccff;'>该物品具有 StatTrak™ 技术，在其所有者装备时能跟踪若干统计数据。</span><br/><br/><span style='color:#cf6a32;'>该物品记录官方竞技 MVP 次数。</span><br/><br/>这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>T方终于有主题曲了。F.O.O.L的《狂徒》黑暗、极具电影感，且充满合成器浪潮气息，为每一次爆弹战术提供了完美配乐。",
+  "def_index": "108",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | F.O.O.L, Criminals",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/fool_01_png.png",
+  "original": {
+   "name": "fool_01",
+   "image_inventory": "econ/music_kits/fool_01"
+  }
+ },
+ {
+  "id": "music_kit-109",
+  "name": "音乐盒 | Noisestorm, 横行无忌",
+  "description": "这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>Noisestorm的《横行无忌》于2018年愚人节发布，随后一路横行成为互联网传奇。赢下这一回合并传下去：敌方队伍已被团灭。",
+  "def_index": "109",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Noisestorm, Crab Rave",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/noisestorm_01_png.png",
+  "original": {
+   "name": "noisestorm_01",
+   "image_inventory": "econ/music_kits/noisestorm_01"
+  }
+ },
+ {
+  "id": "music_kit-109_st",
+  "name": "StatTrak™ 音乐盒 | Noisestorm, 横行无忌",
+  "description": "<span style='color:#99ccff;'>该物品具有 StatTrak™ 技术，在其所有者装备时能跟踪若干统计数据。</span><br/><br/><span style='color:#cf6a32;'>该物品记录官方竞技 MVP 次数。</span><br/><br/>这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>Noisestorm的《横行无忌》于2018年愚人节发布，随后一路横行成为互联网传奇。赢下这一回合并传下去：敌方队伍已被团灭。",
+  "def_index": "109",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Noisestorm, Crab Rave",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/noisestorm_01_png.png",
+  "original": {
+   "name": "noisestorm_01",
+   "image_inventory": "econ/music_kits/noisestorm_01"
+  }
+ },
+ {
+  "id": "music_kit-110",
+  "name": "音乐盒 | Pegboard Nerds, 断开连接",
+  "description": "这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>作为怪兽猫的经典之作，Pegboard Nerds的《断开连接》已经让扬声器短路了十多年。只不过这一次，掉线的是对面那支队。",
+  "def_index": "110",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Pegboard Nerds, Disconnected",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pegboardnerds_01_png.png",
+  "original": {
+   "name": "pegboardnerds_01",
+   "image_inventory": "econ/music_kits/pegboardnerds_01"
+  }
+ },
+ {
+  "id": "music_kit-110_st",
+  "name": "StatTrak™ 音乐盒 | Pegboard Nerds, 断开连接",
+  "description": "<span style='color:#99ccff;'>该物品具有 StatTrak™ 技术，在其所有者装备时能跟踪若干统计数据。</span><br/><br/><span style='color:#cf6a32;'>该物品记录官方竞技 MVP 次数。</span><br/><br/>这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>作为怪兽猫的经典之作，Pegboard Nerds的《断开连接》已经让扬声器短路了十多年。只不过这一次，掉线的是对面那支队。",
+  "def_index": "110",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Pegboard Nerds, Disconnected",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pegboardnerds_01_png.png",
+  "original": {
+   "name": "pegboardnerds_01",
+   "image_inventory": "econ/music_kits/pegboardnerds_01"
+  }
+ },
+ {
+  "id": "music_kit-111",
+  "name": "音乐盒 | Tristam & Braken, 翱翔",
+  "description": "这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>Tristam与Braken的《翱翔》是一首纯粹的怀旧之作，时隔多年，它依然和2013年刚发行时一样动听。",
+  "def_index": "111",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Tristam & Braken, Flight",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/tristam_braken_01_png.png",
+  "original": {
+   "name": "tristam_braken_01",
+   "image_inventory": "econ/music_kits/tristam_braken_01"
+  }
+ },
+ {
+  "id": "music_kit-111_st",
+  "name": "StatTrak™ 音乐盒 | Tristam & Braken, 翱翔",
+  "description": "<span style='color:#99ccff;'>该物品具有 StatTrak™ 技术，在其所有者装备时能跟踪若干统计数据。</span><br/><br/><span style='color:#cf6a32;'>该物品记录官方竞技 MVP 次数。</span><br/><br/>这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>Tristam与Braken的《翱翔》是一首纯粹的怀旧之作，时隔多年，它依然和2013年刚发行时一样动听。",
+  "def_index": "111",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Tristam & Braken, Flight",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/tristam_braken_01_png.png",
+  "original": {
+   "name": "tristam_braken_01",
+   "image_inventory": "econ/music_kits/tristam_braken_01"
+  }
+ },
+ {
+  "id": "music_kit-112",
+  "name": "音乐盒 | Vicetone & Cozi Zuehlsdorff, 内华达",
+  "description": "这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>有些歌一下子就能把你拉回到过去，而Vicetone的《内华达》就是一记2016年的回忆杀，拿来庆祝胜利再合适不过了。",
+  "def_index": "112",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Vicetone & Cozi Zuehlsdorff, Nevada",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/vicetone_01_png.png",
+  "original": {
+   "name": "vicetone_01",
+   "image_inventory": "econ/music_kits/vicetone_01"
+  }
+ },
+ {
+  "id": "music_kit-112_st",
+  "name": "StatTrak™ 音乐盒 | Vicetone & Cozi Zuehlsdorff, 内华达",
+  "description": "<span style='color:#99ccff;'>该物品具有 StatTrak™ 技术，在其所有者装备时能跟踪若干统计数据。</span><br/><br/><span style='color:#cf6a32;'>该物品记录官方竞技 MVP 次数。</span><br/><br/>这个音乐盒将替换游戏中的所有音乐，并且能和与您一起游戏的所有玩家分享。当您成为 MVP 时，音乐盒将向比赛中的所有玩家高奏 MVP 凯歌。\\n\\n音乐盒将替换以下音乐：\\n- 主菜单\\n- 回合开始和结束\\n- 地图目标\\n- 十秒警告\\n- 死亡视角<br/><br/>有些歌一下子就能把你拉回到过去，而Vicetone的《内华达》就是一记2016年的回忆杀，拿来庆祝胜利再合适不过了。",
+  "def_index": "112",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "高级",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Vicetone & Cozi Zuehlsdorff, Nevada",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/vicetone_01_png.png",
+  "original": {
+   "name": "vicetone_01",
+   "image_inventory": "econ/music_kits/vicetone_01"
+  }
  }
 ]
